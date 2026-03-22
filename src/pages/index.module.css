@@ -1,23 +1,72 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
 .heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-}
-
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
-}
-
-.buttons {
+  width: 100%;
+  background-color: #2a1a0e;
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
+  padding: 0.6rem 0;
+  border-bottom: 2px solid #7a4a1e;
+}
+
+.headerInner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.headerLogo {
+  max-height: 80px;
+  max-width: 90vw;
+  object-fit: contain;
+}
+
+.mainContent {
+  min-height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 1rem;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.contentBox {
+  background: rgba(20, 10, 5, 0.78);
+  border: 2px solid #7a4a1e;
+  border-radius: 12px;
+  padding: 2.5rem 3rem;
+  max-width: 700px;
+  text-align: center;
+  box-shadow: 0 4px 32px rgba(0, 0, 0, 0.7);
+}
+
+.description {
+  font-size: 1.2rem;
+  color: #e8d5b0;
+  margin-bottom: 1rem;
+  line-height: 1.7;
+}
+
+.author {
+  font-size: 1rem;
+  color: #c8a87a;
+  margin-bottom: 1rem;
+}
+
+.wip {
+  font-size: 1.1rem;
+  color: #f0c060;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  margin-top: 1.5rem;
+}
+
+@media screen and (max-width: 768px) {
+  .contentBox {
+    padding: 1.5rem 1rem;
+  }
+  .headerLogo {
+    max-height: 140px;
+  }
 }

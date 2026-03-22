@@ -6,25 +6,63 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #7a4a1e;
+  --ifm-color-primary-dark: #6b3f18;
+  --ifm-color-primary-darker: #633b16;
+  --ifm-color-primary-darkest: #512f12;
+  --ifm-color-primary-light: #8f5a28;
+  --ifm-color-primary-lighter: #9a6230;
+  --ifm-color-primary-lightest: #b87840;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-background-color: #1a0f08;
+  --ifm-font-color-base: #e8d5b0;
+  --ifm-navbar-background-color: #2a1a0e;
+  --ifm-navbar-link-color: #e8d5b0;
+  --ifm-footer-background-color: #1a0f08;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+[data-theme="dark"] {
+  --ifm-color-primary: #c8a87a;
+  --ifm-color-primary-dark: #b8936a;
+  --ifm-color-primary-darker: #a88060;
+  --ifm-color-primary-darkest: #906848;
+  --ifm-color-primary-light: #d8b888;
+  --ifm-color-primary-lighter: #e0c090;
+  --ifm-color-primary-lightest: #ecd0a8;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-background-color: #1a0f08;
+  --ifm-font-color-base: #e8d5b0;
+  --ifm-navbar-background-color: #2a1a0e;
+  --ifm-footer-background-color: #1a0f08;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #2a1a0e !important;
+  border-bottom: 2px solid #7a4a1e;
+  min-height: 52px;
+}
+
+.navbar__title {
+  color: #e8d5b0 !important;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+}
+
+.navbar__logo img {
+  max-height: 36px;
+  border-radius: 4px;
+}
+
+/* Footer */
+.footer {
+  background-color: #1a0f08 !important;
+  border-top: 2px solid #7a4a1e !important;
+  padding: 0.8rem 1rem !important;
+}
+
+.footer__copyright {
+  color: #c8a87a !important;
+  font-size: 0.85rem;
 }
