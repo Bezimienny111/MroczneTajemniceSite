@@ -17,13 +17,15 @@
 
 .sidebarContainer {
   display: flex;
-  gap: 1rem;
+  gap: 0;
   position: relative;
+  background-size: cover;
+  background-position: center;
 }
 
 .leftSidebar {
   width: 120px;
-  background-color: #2a1a0e;
+  background-color: rgba(42, 26, 14, 0.85);
   border-right: 2px solid #7a4a1e;
   padding: 1rem 0.5rem;
   display: flex;
@@ -57,14 +59,12 @@
   justify-content: center;
   align-items: center;
   padding: 3rem 1rem;
-  background-size: cover;
-  background-position: center;
   position: relative;
 }
 
 .rightSidebar {
-  width: 160px;
-  background-color: #2a1a0e;
+  width: 220px;
+  background-color: rgba(42, 26, 14, 0.85);
   border-left: 2px solid #7a4a1e;
   padding: 1.5rem 1rem;
   display: flex;

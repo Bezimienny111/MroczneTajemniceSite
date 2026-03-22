@@ -20,14 +20,14 @@ function Home() {
       description="Strona poświęcona modyfikacji Mroczne Tajemnice"
     >
       <HomepageHeader />
-      <div className={styles.sidebarContainer}>
+      <div
+        className={styles.sidebarContainer}
+        style={{ backgroundImage: "url('/img/images/MT%20t%C5%82o.png')" }}
+      >
         <aside className={styles.leftSidebar}>
           <a href="/">🏠 Główna</a>
         </aside>
-        <main
-          className={styles.mainContent}
-          style={{ backgroundImage: "url('/img/images/MT%20t%C5%82o.png')" }}
-        >
+        <main className={styles.mainContent}>
           <div className={styles.contentBox}>
             <p className={styles.description}>
               Strona poświęcona modyfikacji <strong>Mroczne Tajemnice</strong> i
