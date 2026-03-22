@@ -59,10 +59,10 @@
 .footer {
   background-color: #1a0f08 !important;
   border-top: 2px solid #7a4a1e !important;
-  padding: 0.8rem 1rem !important;
+  padding: 0.4rem 1rem !important;
 }
 
 .footer__copyright {
   color: #c8a87a !important;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
 }

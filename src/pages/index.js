@@ -4,13 +4,11 @@ import styles from "./index.module.css";
 function HomepageHeader() {
   return (
     <header className={styles.heroBanner}>
-      <div className={styles.headerInner}>
-        <img
-          src="/img/images/bezi_2_drewno.png"
-          alt="Mroczne Tajemnice"
-          className={styles.headerLogo}
-        />
-      </div>
+      <img
+        src="/img/images/baner.png"
+        alt="Mroczne Tajemnice"
+        className={styles.headerBaner}
+      />
     </header>
   );
 }

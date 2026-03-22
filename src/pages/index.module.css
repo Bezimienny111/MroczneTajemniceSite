@@ -1,23 +1,18 @@
 .heroBanner {
   width: 100%;
   background-color: #2a1a0e;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 0.6rem 0;
+  display: block;
+  padding: 0;
+  margin: 0;
   border-bottom: 2px solid #7a4a1e;
+  line-height: 0;
 }
 
-.headerInner {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.headerLogo {
-  max-height: 80px;
-  max-width: 90vw;
-  object-fit: contain;
+.headerBaner {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
 }
 
 .mainContent {
@@ -65,8 +60,5 @@
 @media screen and (max-width: 768px) {
   .contentBox {
     padding: 1.5rem 1rem;
-  }
-  .headerLogo {
-    max-height: 140px;
   }
 }
