@@ -37,22 +37,17 @@
   --ifm-footer-background-color: #1a0f08;
 }
 
-/* Navbar */
+/* Navbar - hidden from all pages */
 .navbar {
-  background-color: #2a1a0e !important;
-  border-bottom: 2px solid #7a4a1e;
-  min-height: 52px;
+  display: none !important;
 }
 
-.navbar__title {
-  color: #e8d5b0 !important;
-  font-weight: bold;
-  letter-spacing: 0.08em;
+.navbar__items {
+  display: none;
 }
 
-.navbar__logo img {
-  max-height: 36px;
-  border-radius: 4px;
+body {
+  background-color: #1a0f08;
 }
 
 /* Footer */
