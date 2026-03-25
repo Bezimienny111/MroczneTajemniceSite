@@ -31,7 +31,7 @@ function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Poziomkaz
+              PoziomkaZ
             </a>
             .
           </p>

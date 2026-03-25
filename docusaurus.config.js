@@ -88,6 +88,11 @@ const config = {
         title: "Mroczne Tajemnice",
         items: [
           {
+            to: "/historia",
+            label: "Historia",
+            position: "left",
+          },
+          {
             type: "dropdown",
             label: "Download",
             position: "right",
@@ -145,7 +150,7 @@ const config = {
                 className: "discord-link",
               },
               {
-                label: "Poziomkaz (twórcy oryginału)",
+                label: "PoziomkaZ (twórcy oryginału)",
                 href: "https://poziomkaz.pl/",
               },
             ],
@@ -155,7 +160,7 @@ const config = {
       footer: {
         style: "dark",
         links: [],
-        copyright: `© ${new Date().getFullYear()} Mroczne Tajemnice — Prowadzone przez Bezimienny111 | Mod oryginalnie stworzony przez <a href="https://poziomkaz.pl/" target="_blank" rel="noopener noreferrer">Poziomkaz</a>`,
+        copyright: `© ${new Date().getFullYear()} Mroczne Tajemnice — Prowadzone przez Bezimienny111 | Mod oryginalnie stworzony przez <a href="https://poziomkaz.pl/" target="_blank" rel="noopener noreferrer">PoziomkaZ</a>`,
       },
       prism: {
         theme: prismThemes.github,

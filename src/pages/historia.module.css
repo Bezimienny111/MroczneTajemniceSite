@@ -1,0 +1,51 @@
+.pageWrapper {
+  width: 100%;
+  min-height: calc(100vh - var(--ifm-navbar-height));
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 3rem 1rem;
+}
+
+.container {
+  max-width: 860px;
+  width: 100%;
+}
+
+.title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #f0c060;
+  text-align: center;
+  margin-bottom: 2rem;
+  letter-spacing: 0.04em;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);
+}
+
+.content {
+  background: rgba(20, 10, 5, 0.82);
+  border: 2px solid #7a4a1e;
+  border-radius: 12px;
+  padding: 2.5rem 3rem;
+  box-shadow: 0 4px 32px rgba(0, 0, 0, 0.7);
+  color: #e8d5b0;
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+.wip {
+  font-size: 1.1rem;
+  color: #f0c060;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  .content {
+    padding: 1.5rem 1rem;
+  }
+  .title {
+    font-size: 1.6rem;
+  }
+}
