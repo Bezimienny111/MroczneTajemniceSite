@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkbezimienny_111_github_io=globalThis.webpackChunkbezimienny_111_github_io||[]).push([[472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[]}')}}]);
