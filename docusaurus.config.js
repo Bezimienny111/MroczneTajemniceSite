@@ -168,6 +168,16 @@ const config = {
                 className: "discord-link",
               },
               {
+                label: "Gothic I: Amplified",
+                href: "https://discord.gg/G2Qu6SuE5E",
+                className: "discord-link",
+              },
+              {
+                label: "Simon Said",
+                href: "https://discord.gg/QjfXQeb7a",
+                className: "discord-link",
+              },
+              {
                 label: "PoziomkaZ (twórcy oryginału)",
                 href: "https://poziomkaz.pl/",
               },

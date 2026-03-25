@@ -65,6 +65,7 @@ const timelineData = [
         date: "~2010",
         text: "Premiera patcha 2.02 — ostatniego oficjalnego patcha od Poziomkaz",
         dateUnknown: true,
+        highlight: true,
       },
       {
         date: "30.04.2010",
@@ -79,7 +80,7 @@ const timelineData = [
       },
       {
         date: "21.04.2010",
-        text: '"Premiera" Mrocznych Tajemnic 2.0 — żart primaaprilisowy (Archiwum z bardzo długim hasłem o wypakowania)',
+        text: '"Premiera" Mrocznych Tajemnic 2.0 — żart primaaprilisowy (Archiwum z bardzo długim hasłem do wypakowania)',
         source: "https://tawerna-gothic.pl/",
         joke: true,
       },
