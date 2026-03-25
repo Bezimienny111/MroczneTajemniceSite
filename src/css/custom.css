@@ -68,11 +68,11 @@ body {
 
 /* Discord icon in dropdown links */
 .discord-link::before {
-  content: '';
+  content: "";
   display: inline-block;
   width: 16px;
   height: 16px;
-  background-image: url('/img/discord.svg');
+  background-image: url("/img/discord.svg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
