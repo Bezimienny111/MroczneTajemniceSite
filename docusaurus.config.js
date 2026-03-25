@@ -182,7 +182,7 @@ const config = {
                 className: "discord-link",
               },
               {
-                html: '<img src="/img/images/gothicxmod.ico" alt="" style="width:14px;height:14px;vertical-align:middle;margin-right:5px;"/>Gothic I: Amplified',
+                html: '<img src="/img/images/gothicxmod.jpg" alt="" style="width:14px;height:14px;vertical-align:middle;margin-right:5px;"/>Gothic I: Amplified',
                 href: "https://discord.gg/G2Qu6SuE5E",
                 className: "discord-link",
               },
