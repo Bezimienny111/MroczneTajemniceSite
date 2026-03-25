@@ -214,20 +214,34 @@ export default function Historia() {
       title="Historia"
       description="Historia modyfikacji Mroczne Tajemnice"
     >
-      <div
-        className={styles.pageWrapper}
-        style={{
-          backgroundImage: "url('/img/images/MT%20t%C5%82o.png')",
-          backgroundSize: "cover",
-          backgroundPosition: "center",
-        }}
-      >
+      <div className={styles.pageWrapper}>
         <div className={styles.container}>
           <h1 className={styles.title}>Historia</h1>
           <div className={styles.content}>
             <p className={styles.subtitle}>
               Kalendarium modyfikacji <strong>Mroczne Tajemnice</strong> — od
               najnowszych do najstarszych wydarzeń.
+            </p>
+            <p className={styles.note}>
+              ⚠️ Niestety strona{" "}
+              <a
+                href="https://tawerna-gothic.pl"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                tawerna-gothic.pl
+              </a>{" "}
+              (na dzień 25.03.2026) nie działa poprawnie — odnośniki do
+              konkretnych historycznych newsów nie działają. Wszystkie wpisy
+              można odnaleźć w sekcji{" "}
+              <a
+                href="https://tawerna-gothic.pl/modyfikacje/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                tawerna-gothic.pl/modyfikacje/
+              </a>
+              .
             </p>
             {timelineData.map((yearGroup) => (
               <div key={yearGroup.year} className={styles.yearGroup}>

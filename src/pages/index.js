@@ -60,21 +60,24 @@ function Home() {
       title="Mroczne Tajemnice"
       description="Strona poświęcona modyfikacji Mroczne Tajemnice"
     >
-      <div
-        className={styles.mainContent}
-        style={{
-          backgroundImage: "url('/img/images/MT%20t%C5%82o.png')",
-          backgroundSize: "cover",
-          backgroundPosition: "center",
-        }}
-      >
+      <div className={styles.mainContent}>
         <div className={styles.contentBox}>
           <p className={styles.description}>
             Strona poświęcona modyfikacji <strong>Mroczne Tajemnice</strong> i
             jej rozwinięciu <strong>Mroczne Tajemnice 2.5</strong>.
           </p>
           <p className={styles.author}>
-            Prowadzona przez <strong>Bezimienny111</strong>.
+            Prowadzona przez{" "}
+            <strong>
+              <a
+                href="https://www.youtube.com/@Bezimienny111"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Bezimienny111
+              </a>
+            </strong>
+            .
           </p>
           <p className={styles.wip}>🚧 Strona w budowie 🚧</p>
           <p className={styles.credits}>

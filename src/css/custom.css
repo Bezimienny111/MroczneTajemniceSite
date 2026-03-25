@@ -37,17 +37,42 @@
   --ifm-footer-background-color: #1a0f08;
 }
 
+html,
 body {
   background-color: #1a0f08;
   background-image: url("/img/images/menu.png");
-  background-size: cover;
-  background-position: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: top center;
   background-attachment: fixed;
 }
 
 /* Navbar border bottom */
 .navbar {
   border-bottom: 2px solid #7a4a1e;
+}
+
+/* Navbar logo vertical center */
+.navbar__inner {
+  align-items: center;
+}
+
+.navbar__brand {
+  align-items: center;
+  display: flex;
+}
+
+.navbar__logo {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.navbar__logo img {
+  display: block;
+  height: 42px;
+  width: auto;
+  margin: 0;
 }
 
 /* Navbar title */

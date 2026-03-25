@@ -12,7 +12,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "Mroczne Tajemnice",
   tagline: "Strona modyfikacji Mroczne Tajemnice i Mroczne Tajemnice 2.5",
-  favicon: "img/favicon.ico",
+  favicon: "img/images/MT_2.5_logo_WWW.png",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -93,21 +93,31 @@ const config = {
         disableSwitch: true,
       },
       navbar: {
-        title: "Mroczne Tajemnice",
+        title: "",
+        logo: {
+          alt: "Mroczne Tajemnice",
+          src: "img/images/MT_2.5_logo_WWW.png",
+          style: { height: "42px", width: "auto" },
+        },
         items: [
           {
             to: "/newsy",
-            label: "Newsy",
+            label: "Newsy Gothic",
             position: "left",
           },
           {
             to: "/blog",
-            label: "Blog",
+            label: "Blog MT",
             position: "left",
           },
           {
             to: "/historia",
-            label: "Historia",
+            label: "Kalendarium MT",
+            position: "left",
+          },
+          {
+            to: "/autorzy",
+            label: "Autorzy modyfikacji",
             position: "left",
           },
           {
@@ -188,7 +198,7 @@ const config = {
       footer: {
         style: "dark",
         links: [],
-        copyright: `© ${new Date().getFullYear()} Mroczne Tajemnice — Prowadzone przez Bezimienny111 | Mod oryginalnie stworzony przez <a href="https://poziomkaz.pl/" target="_blank" rel="noopener noreferrer"><img src="/img/images/poziomka.png" alt="" style="width:13px;height:13px;vertical-align:middle;margin-right:4px;"/>PoziomkaZ</a>`,
+        copyright: `© ${new Date().getFullYear()} Mroczne Tajemnice — Prowadzone przez <a href="https://www.youtube.com/@Bezimienny111" target="_blank" rel="noopener noreferrer">Bezimienny111</a> | Mod oryginalnie stworzony przez <a href="https://poziomkaz.pl/" target="_blank" rel="noopener noreferrer"><img src="/img/images/poziomka.png" alt="" style="width:13px;height:13px;vertical-align:middle;margin-right:4px;"/>PoziomkaZ</a><br/><small>Gothic™ oraz Gothic II™ są zastrzeżonymi znakami towarowymi firmy THQ Nordic GmbH. Mroczne Tajemnice jest nieoficjalną, niekomercyjną modyfikacją tworzoną przez fanów i nie jest powiązana ani zatwierdzona przez THQ Nordic GmbH ani Piranha Bytes.</small>`,
       },
       prism: {
         theme: prismThemes.github,
