@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.mrocznetajemnice.pl/newsy"/>
     <subtitle>Mroczne Tajemnice Blog</subtitle>
-    <icon>https://www.mrocznetajemnice.pl/img/favicon.ico</icon>
+    <icon>https://www.mrocznetajemnice.pl/img/images/MT_2.5_logo_WWW.png</icon>
     <entry>
         <title type="html"><![CDATA[Wkrótce...]]></title>
         <id>https://www.mrocznetajemnice.pl/newsy/coming-soon</id>
