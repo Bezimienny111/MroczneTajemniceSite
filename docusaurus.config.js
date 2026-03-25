@@ -89,7 +89,65 @@ const config = {
           alt: "Mroczne Tajemnice",
           src: "img/images/bezi_2_drewno.png",
         },
-        items: [],
+        items: [
+          {
+            type: "dropdown",
+            label: "Download",
+            position: "left",
+            items: [
+              {
+                label: "MT v2.5",
+                href: "https://sefaris.eu/mroczne-tajemnice-2-5",
+              },
+              {
+                label: "MT 2.02",
+                href: "https://www.sefaris.eu/mroczne-tajemnice",
+              },
+              {
+                label: "Union i Pluginy",
+                href: "https://www.sefaris.eu/union/plugins",
+              },
+              {
+                label: "DX11",
+                href: "https://github.com/SaiyansKing/GD3D11/releases",
+              },
+              {
+                label: "Legacy Alt Renderer",
+                href: "https://github.com/SaiyansKing/Gothic-LegacyAltRenderer/releases",
+              },
+            ],
+          },
+          {
+            type: "dropdown",
+            label: "Przydatne linki",
+            position: "left",
+            items: [
+              {
+                label: "Discord",
+                href: "https://discord.gg/hP2g4MQS5T",
+              },
+              {
+                label: "Solucja 2.5",
+                href: "https://mt.mody.sefaris.eu/#/",
+              },
+              {
+                label: "Solucja 2.02",
+                href: "/files/Solucja_MT.pdf",
+              },
+            ],
+          },
+          {
+            type: "dropdown",
+            label: "Zaprzyjaünieni",
+            position: "left",
+            items: [
+              {
+                label: "Discord Sefaris",
+                href: "https://discord.gg/9EVFJv5Uyf",
+              },
+            ],
+          },
+        ],
       },
       footer: {
         style: "dark",
