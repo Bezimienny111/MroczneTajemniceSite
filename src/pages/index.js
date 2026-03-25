@@ -24,6 +24,17 @@ function Home() {
             Prowadzona przez <strong>Bezimienny111</strong>.
           </p>
           <p className={styles.wip}>🚧 Strona w budowie 🚧</p>
+          <p className={styles.credits}>
+            Mod oryginalnie stworzony przez zespół{" "}
+            <a
+              href="https://poziomkaz.pl/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Poziomkaz
+            </a>
+            .
+          </p>
         </div>
       </div>
     </Layout>

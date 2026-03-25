@@ -144,6 +144,10 @@ const config = {
                 href: "https://discord.gg/9EVFJv5Uyf",
                 className: "discord-link",
               },
+              {
+                label: "Poziomkaz (twórcy oryginału)",
+                href: "https://poziomkaz.pl/",
+              },
             ],
           },
         ],
@@ -151,7 +155,7 @@ const config = {
       footer: {
         style: "dark",
         links: [],
-        copyright: `\u00A9 ${new Date().getFullYear()} Mroczne Tajemnice \u2014 Prowadzone przez Bezimienny111`,
+        copyright: `© ${new Date().getFullYear()} Mroczne Tajemnice — Prowadzone przez Bezimienny111 | Mod oryginalnie stworzony przez <a href="https://poziomkaz.pl/" target="_blank" rel="noopener noreferrer">Poziomkaz</a>`,
       },
       prism: {
         theme: prismThemes.github,
