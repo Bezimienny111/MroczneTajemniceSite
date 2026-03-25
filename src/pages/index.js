@@ -78,7 +78,7 @@ function Home() {
           </p>
           <p className={styles.wip}>🚧 Strona w budowie 🚧</p>
           <p className={styles.credits}>
-            Mod oryginalnie stworzony przez zespół{" "}
+            Mod oryginalnie stworzony przez zespół{", "}
             <a
               href="https://poziomkaz.pl/"
               target="_blank"
@@ -89,15 +89,6 @@ function Home() {
             .
           </p>
         </div>
-      </div>
-      <div
-        className={styles.latestWrapper}
-        style={{
-          backgroundImage: "url('/img/images/MT%20t%C5%82o.png')",
-          backgroundSize: "cover",
-          backgroundPosition: "center",
-        }}
-      >
         <LatestPosts />
       </div>
     </Layout>
