@@ -64,7 +64,7 @@ const timelineData = [
       {
         date: "~2010",
         text: "Premiera patcha 2.02 — ostatniego oficjalnego patcha od Poziomkaz",
-        source: "https://tawerna-gothic.pl/",
+        source: "",
         dateUnknown: true,
       },
       {
