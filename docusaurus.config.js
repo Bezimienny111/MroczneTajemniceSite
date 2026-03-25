@@ -87,7 +87,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/images/baner.png",
+      image: "img/images/MT tło.png",
       colorMode: {
         respectPrefersColorScheme: true,
         disableSwitch: true,
@@ -143,11 +143,6 @@ const config = {
             position: "right",
             items: [
               {
-                label: "Discord: Bezi - YT/Mody Gothic",
-                href: "https://discord.gg/hP2g4MQS5T",
-                className: "discord-link",
-              },
-              {
                 label: "Solucja 2.5",
                 href: "https://mt.mody.sefaris.eu/#/",
               },
@@ -163,6 +158,15 @@ const config = {
             position: "right",
             items: [
               {
+                html: '<img src="/img/images/poziomka.png" alt="" style="width:14px;height:14px;vertical-align:middle;margin-right:5px;"/>PoziomkaZ (twórcy oryginału)',
+                href: "https://poziomkaz.pl/",
+              },
+              {
+                label: "Discord: Bezi - YT/Mody Gothic",
+                href: "https://discord.gg/hP2g4MQS5T",
+                className: "discord-link",
+              },
+              {
                 label: "Discord Sefaris",
                 href: "https://discord.gg/9EVFJv5Uyf",
                 className: "discord-link",
@@ -177,10 +181,6 @@ const config = {
                 href: "https://discord.gg/QjfXQeb7a",
                 className: "discord-link",
               },
-              {
-                label: "PoziomkaZ (twórcy oryginału)",
-                href: "https://poziomkaz.pl/",
-              },
             ],
           },
         ],
@@ -188,7 +188,7 @@ const config = {
       footer: {
         style: "dark",
         links: [],
-        copyright: `© ${new Date().getFullYear()} Mroczne Tajemnice — Prowadzone przez Bezimienny111 | Mod oryginalnie stworzony przez <a href="https://poziomkaz.pl/" target="_blank" rel="noopener noreferrer">PoziomkaZ</a>`,
+        copyright: `© ${new Date().getFullYear()} Mroczne Tajemnice — Prowadzone przez Bezimienny111 | Mod oryginalnie stworzony przez <a href="https://poziomkaz.pl/" target="_blank" rel="noopener noreferrer"><img src="/img/images/poziomka.png" alt="" style="width:13px;height:13px;vertical-align:middle;margin-right:4px;"/>PoziomkaZ</a>`,
       },
       prism: {
         theme: prismThemes.github,

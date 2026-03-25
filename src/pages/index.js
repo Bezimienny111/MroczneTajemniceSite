@@ -84,6 +84,15 @@ function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
+              <img
+                src="/img/images/POZIOMKAZ.png"
+                alt="PoziomkaZ"
+                style={{
+                  height: "22px",
+                  verticalAlign: "middle",
+                  marginRight: "6px",
+                }}
+              />
               PoziomkaZ
             </a>
             .
