@@ -37,8 +37,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: "pl",
+    locales: ["pl"],
   },
 
   presets: [
@@ -66,12 +66,29 @@ const config = {
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
-          onUntruncatedBlogPosts: "warn",
+          onUntruncatedBlogPosts: "ignore",
+          blogSidebarCount: 0,
         },
         theme: {
           customCss: "./src/css/custom.css",
         },
       }),
+    ],
+  ],
+
+  plugins: [
+    [
+      "@docusaurus/plugin-content-blog",
+      {
+        id: "newsy",
+        routeBasePath: "newsy",
+        path: "./newsy",
+        showReadingTime: true,
+        onInlineTags: "warn",
+        onInlineAuthors: "warn",
+        onUntruncatedBlogPosts: "ignore",
+        blogSidebarCount: 0,
+      },
     ],
   ],
 
@@ -87,6 +104,16 @@ const config = {
       navbar: {
         title: "Mroczne Tajemnice",
         items: [
+          {
+            to: "/newsy",
+            label: "Newsy",
+            position: "left",
+          },
+          {
+            to: "/blog",
+            label: "Blog",
+            position: "left",
+          },
           {
             to: "/historia",
             label: "Historia",
