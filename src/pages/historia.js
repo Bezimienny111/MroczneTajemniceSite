@@ -64,7 +64,6 @@ const timelineData = [
       {
         date: "~2010",
         text: "Premiera patcha 2.02 — ostatniego oficjalnego patcha od Poziomkaz",
-        source: "",
         dateUnknown: true,
       },
       {
@@ -254,15 +253,17 @@ export default function Historia() {
                             />
                           )}
                         </span>
-                        <a
-                          href={event.source}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className={styles.sourceLink}
-                          title={event.source}
-                        >
-                          źródło
-                        </a>
+                        {event.source && (
+                          <a
+                            href={event.source}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className={styles.sourceLink}
+                            title={event.source}
+                          >
+                            źródło
+                          </a>
+                        )}
                       </div>
                     </div>
                   ))}
