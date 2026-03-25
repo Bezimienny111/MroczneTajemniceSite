@@ -80,7 +80,7 @@ const timelineData = [
       },
       {
         date: "21.04.2010",
-        text: '"Premiera" Mrocznych Tajemnic 2.0 — żart primaaprilisowy (zachowane w archiwum)',
+        text: '"Premiera" Mrocznych Tajemnic 2.0 — żart primaaprilisowy (Archiwum z bardzo długim hasłem o wypakowania)',
         source: "https://tawerna-gothic.pl/",
         joke: true,
       },
