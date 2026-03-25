@@ -93,11 +93,11 @@ const config = {
             position: "right",
             items: [
               {
-                label: "MT v2.5",
+                label: "Mroczne Tajemnice 2.5",
                 href: "https://sefaris.eu/mroczne-tajemnice-2-5",
               },
               {
-                label: "MT 2.02",
+                label: "Mroczne Tajemnice 2.02",
                 href: "https://www.sefaris.eu/mroczne-tajemnice",
               },
               {
