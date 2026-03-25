@@ -37,15 +37,6 @@
   --ifm-footer-background-color: #1a0f08;
 }
 
-/* Navbar - hidden from all pages */
-.navbar {
-  display: none !important;
-}
-
-.navbar__items {
-  display: none;
-}
-
 body {
   background-color: #1a0f08;
 }
