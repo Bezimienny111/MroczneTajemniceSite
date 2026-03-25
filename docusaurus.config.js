@@ -87,7 +87,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/images/MT tło.png",
+      image: "img/images/menu.png",
       colorMode: {
         respectPrefersColorScheme: true,
         disableSwitch: true,
@@ -189,6 +189,11 @@ const config = {
               {
                 html: '<img src="/img/images/Simon.png" alt="" style="width:14px;height:14px;vertical-align:middle;margin-right:5px;"/>Simon Said',
                 href: "https://discord.gg/QjfXQeb7a",
+                className: "discord-link",
+              },
+              {
+                html: '<img src="/img/images/Puna.png" alt="" style="width:14px;height:14px;vertical-align:middle;margin-right:5px;"/>Puna Family',
+                href: "https://discord.gg/puna",
                 className: "discord-link",
               },
             ],

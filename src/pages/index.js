@@ -64,7 +64,8 @@ function Home() {
         <div className={styles.contentBox}>
           <p className={styles.description}>
             Strona poświęcona modyfikacji <strong>Mroczne Tajemnice</strong> i
-            jej rozwinięciu <strong>Mroczne Tajemnice 2.5</strong>.
+            jej rozwinięciu <strong>Mroczne Tajemnice 2.5</strong>, oraz serii{" "}
+            <strong>Gothic</strong>.
           </p>
           <p className={styles.author}>
             Prowadzona przez{" "}
@@ -81,7 +82,7 @@ function Home() {
           </p>
           <p className={styles.wip}>🚧 Strona w budowie 🚧</p>
           <p className={styles.credits}>
-            Mod oryginalnie stworzony przez zespół{", "}
+            Mod oryginalnie stworzony przez zespół{" "}
             <a
               href="https://poziomkaz.pl/"
               target="_blank"
