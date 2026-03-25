@@ -177,12 +177,12 @@ const config = {
                 className: "discord-link",
               },
               {
-                label: "Sefaris",
+                html: '<img src="/img/images/sefaris.webp" alt="" style="width:14px;height:14px;vertical-align:middle;margin-right:5px;"/>Sefaris',
                 href: "https://discord.gg/9EVFJv5Uyf",
                 className: "discord-link",
               },
               {
-                label: "Gothic I: Amplified",
+                html: '<img src="/img/images/gothicxmod.ico" alt="" style="width:14px;height:14px;vertical-align:middle;margin-right:5px;"/>Gothic I: Amplified',
                 href: "https://discord.gg/G2Qu6SuE5E",
                 className: "discord-link",
               },
