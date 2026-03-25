@@ -39,6 +39,10 @@
 
 body {
   background-color: #1a0f08;
+  background-image: url("/img/images/MT%20t%C5%82o.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 /* Navbar border bottom */
@@ -95,9 +99,38 @@ body {
 
 /* Footer */
 .footer {
-  background-color: #1a0f08 !important;
+  background-color: rgba(20, 10, 5, 0.92) !important;
   border-top: 2px solid #7a4a1e !important;
   padding: 0.4rem 1rem !important;
+}
+
+/* Blog & docs content containers */
+.main-wrapper {
+  background: transparent !important;
+}
+
+.container {
+  background: transparent !important;
+}
+
+article.margin-bottom--xl,
+.blog-list-page,
+.blog-post-page {
+  background: transparent !important;
+}
+
+/* Blog post article card */
+article header,
+article .markdown {
+  background: transparent !important;
+}
+
+/* Blog sidebar */
+.blog-sidebar {
+  background: rgba(20, 10, 5, 0.7) !important;
+  border-left: 1px solid #7a4a1e;
+  padding: 1rem;
+  border-radius: 8px;
 }
 
 .footer__copyright {
