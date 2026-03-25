@@ -17,35 +17,245 @@
   font-weight: 700;
   color: #f0c060;
   text-align: center;
-  margin-bottom: 2rem;
+  margin-bottom: 0.5rem;
   letter-spacing: 0.04em;
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);
 }
 
-.content {
-  background: rgba(20, 10, 5, 0.82);
-  border: 2px solid #7a4a1e;
-  border-radius: 12px;
-  padding: 2.5rem 3rem;
-  box-shadow: 0 4px 32px rgba(0, 0, 0, 0.7);
-  color: #e8d5b0;
-  font-size: 1.05rem;
-  line-height: 1.8;
+.subtitle {
+  text-align: center;
+  color: #c8a87a;
+  font-size: 0.95rem;
+  margin-bottom: 2rem;
+  opacity: 0.85;
 }
 
-.wip {
-  font-size: 1.1rem;
+.content {
+  background: rgba(20, 10, 5, 0.85);
+  border: 2px solid #7a4a1e;
+  border-radius: 12px;
+  padding: 2.5rem 2.5rem 2.5rem 2rem;
+  box-shadow: 0 4px 32px rgba(0, 0, 0, 0.7);
+  color: #e8d5b0;
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+/* ── Year group ── */
+.yearGroup {
+  margin-bottom: 2rem;
+}
+
+.yearBadge {
+  display: inline-block;
+  background: linear-gradient(135deg, #7a4a1e, #b87840);
+  color: #fff8ee;
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  padding: 0.25rem 1.1rem;
+  border-radius: 20px;
+  margin-bottom: 0.85rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.yearEvents {
+  border-left: 2px solid #7a4a1e;
+  margin-left: 0.6rem;
+  padding-left: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+/* ── Single event ── */
+.event {
+  display: flex;
+  align-items: flex-start;
+  gap: 0;
+  position: relative;
+  padding: 0.55rem 0.8rem 0.55rem 1.4rem;
+  border-radius: 8px;
+  transition: background 0.18s;
+}
+
+.event:hover {
+  background: rgba(122, 74, 30, 0.15);
+}
+
+.eventDot {
+  position: absolute;
+  left: -0.45rem;
+  top: 1rem;
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 50%;
+  background: #7a4a1e;
+  border: 2px solid #f0c060;
+  flex-shrink: 0;
+}
+
+.eventHighlight .eventDot {
+  background: #f0c060;
+  border-color: #fff;
+  width: 0.9rem;
+  height: 0.9rem;
+  left: -0.52rem;
+}
+
+.eventBody {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.4rem 0.6rem;
+}
+
+.eventDate {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #c8a87a;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.03em;
+  min-width: 6rem;
+}
+
+.eventUnknown .eventDate {
+  color: #a89070;
+  font-style: italic;
+}
+
+.eventText {
+  color: #e8d5b0;
+  flex: 1;
+  min-width: 0;
+}
+
+.eventHighlight .eventText {
+  color: #f8e8b8;
+  font-weight: 600;
+}
+
+.eventJoke .eventText {
+  color: #b8c878;
+  font-style: italic;
+}
+
+.sourceLink {
+  font-size: 0.72rem;
+  color: #7a4a1e;
+  border: 1px solid #7a4a1e;
+  border-radius: 4px;
+  padding: 0.05rem 0.4rem;
+  text-decoration: none;
+  white-space: nowrap;
+  transition:
+    background 0.15s,
+    color 0.15s;
+  align-self: center;
+}
+
+.sourceLink:hover {
+  background: #7a4a1e;
   color: #f0c060;
-  font-weight: bold;
-  letter-spacing: 0.05em;
-  text-align: center;
+  text-decoration: none;
+}
+
+/* ── Tooltip (cloud bubble) ── */
+.tooltipWrapper {
+  position: relative;
+  display: inline-block;
+  margin-left: 0.4rem;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+.tooltipIcon {
+  font-size: 0.9rem;
+  opacity: 0.75;
+  transition: opacity 0.15s;
+}
+
+.tooltipWrapper:hover .tooltipIcon {
+  opacity: 1;
+}
+
+.tooltipBubble {
+  display: none;
+  position: absolute;
+  bottom: calc(100% + 10px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: #2a1a0e;
+  border: 1.5px solid #b87840;
+  border-radius: 14px;
+  padding: 0.5rem 0.9rem;
+  white-space: nowrap;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.7);
+  z-index: 100;
+  pointer-events: none;
+}
+
+/* Cloud tail */
+.tooltipBubble::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 7px solid transparent;
+  border-top-color: #b87840;
+}
+
+.tooltipBubble::before {
+  content: "";
+  position: absolute;
+  top: calc(100% + 2px);
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: #2a1a0e;
+  z-index: 1;
+}
+
+.tooltipWrapper:hover .tooltipBubble {
+  display: block;
+  pointer-events: auto;
+}
+
+.tooltipBubble a {
+  color: #f0c060;
+  text-decoration: none;
+  font-size: 0.82rem;
+}
+
+.tooltipBubble a:hover {
+  text-decoration: underline;
 }
 
 @media screen and (max-width: 768px) {
   .content {
-    padding: 1.5rem 1rem;
+    padding: 1.5rem 1rem 1.5rem 0.8rem;
   }
   .title {
     font-size: 1.6rem;
+  }
+  .eventBody {
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+  .eventDate {
+    min-width: unset;
+  }
+  .tooltipBubble {
+    white-space: normal;
+    width: 200px;
+    left: 0;
+    transform: none;
+  }
+  .tooltipBubble::after,
+  .tooltipBubble::before {
+    left: 0.8rem;
+    transform: none;
   }
 }

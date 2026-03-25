@@ -119,6 +119,28 @@ article.margin-bottom--xl,
   background: transparent !important;
 }
 
+/* Blog post article box */
+.blog-wrapper article,
+[class*="blogPostContainer"],
+[class*="blogPost"] article {
+  background: rgba(20, 10, 5, 0.78) !important;
+  border: 2px solid #7a4a1e !important;
+  border-radius: 12px !important;
+  padding: 2rem 2.5rem !important;
+  box-shadow: 0 4px 32px rgba(0, 0, 0, 0.7) !important;
+  margin-bottom: 2rem !important;
+}
+
+/* Blog list item cards */
+[class*="blogListPage"] article {
+  background: rgba(20, 10, 5, 0.78) !important;
+  border: 2px solid #7a4a1e !important;
+  border-radius: 12px !important;
+  padding: 2rem 2.5rem !important;
+  box-shadow: 0 4px 32px rgba(0, 0, 0, 0.7) !important;
+  margin-bottom: 2rem !important;
+}
+
 /* Blog post article card */
 article header,
 article .markdown {
