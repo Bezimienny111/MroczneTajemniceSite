@@ -31,7 +31,7 @@ const config = {
   projectName: "MroczneTajemniceSite", // Usually your repo name.
   deploymentBranch: "gh-pages",
   trailingSlash: false,
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -82,18 +82,15 @@ const config = {
       image: "img/images/baner.png",
       colorMode: {
         respectPrefersColorScheme: true,
+        disableSwitch: true,
       },
       navbar: {
-        title: "MT",
-        logo: {
-          alt: "Mroczne Tajemnice",
-          src: "img/images/bezi_2_drewno.png",
-        },
+        title: "Mroczne Tajemnice",
         items: [
           {
             type: "dropdown",
             label: "Download",
-            position: "left",
+            position: "right",
             items: [
               {
                 label: "MT v2.5",
@@ -120,11 +117,12 @@ const config = {
           {
             type: "dropdown",
             label: "Przydatne linki",
-            position: "left",
+            position: "right",
             items: [
               {
-                label: "Discord",
+                label: "Discord: Bezi - YT/Mody Gothic",
                 href: "https://discord.gg/hP2g4MQS5T",
+                className: "discord-link",
               },
               {
                 label: "Solucja 2.5",
@@ -132,18 +130,19 @@ const config = {
               },
               {
                 label: "Solucja 2.02",
-                href: "/files/Solucja_MT.pdf",
+                href: "pathname:///files/Solucja_MT.pdf",
               },
             ],
           },
           {
             type: "dropdown",
-            label: "Zaprzyjaünieni",
-            position: "left",
+            label: "Zaprzyja≈∫nieni",
+            position: "right",
             items: [
               {
                 label: "Discord Sefaris",
                 href: "https://discord.gg/9EVFJv5Uyf",
+                className: "discord-link",
               },
             ],
           },
