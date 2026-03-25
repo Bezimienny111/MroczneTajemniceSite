@@ -86,6 +86,7 @@ body {
 .dropdown__menu {
   background-color: #2a1a0e !important;
   border: 1px solid #7a4a1e !important;
+  min-width: 280px !important;
 }
 
 /* Dropdown items */
@@ -95,18 +96,29 @@ body {
   font-weight: 600 !important;
 }
 
-/* Discord icon in dropdown links */
-.discord-link::before {
+/* Discord icon on the right side of dropdown links */
+.discord-link {
+  display: flex !important;
+  align-items: center;
+  gap: 0;
+}
+
+.discord-link::after {
   content: "";
   display: inline-block;
   width: 16px;
+  min-width: 16px;
   height: 16px;
   background-image: url("/img/discord.svg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  margin-right: 7px;
-  vertical-align: -3px;
+  margin-left: 7px;
+}
+
+/* Hide default external link icon for discord links */
+.discord-link svg {
+  display: none !important;
 }
 
 .dropdown__link:hover,

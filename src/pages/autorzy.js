@@ -2,30 +2,61 @@ import Layout from "@theme/Layout";
 import styles from "./autorzy.module.css";
 
 const poziomkazTeam = [
-  { name: "Autor 1", role: "Rola / opis" },
-  { name: "Autor 2", role: "Rola / opis" },
-  { name: "Autor 3", role: "Rola / opis" },
+  {
+    name: "Siekacz",
+    role: "Szef projektu, Reżyseria, Skrypty, Grafika 2D, Level Design",
+  },
+  { name: "Shergar", role: "Reżyseria, Skrypty, Grafika 2D, Level Design" },
+  { name: "Zdunek", role: "Reżyseria, Grafika 3D, Level Design, Filmy" },
+  { name: "Fenix", role: "Skrypty" },
+  { name: "Ojciec Redaktor", role: "Skrypty, Level Design, Filmy, Muzyka" },
+  { name: "Lord Michał VIII", role: "Skrypty" },
+  { name: "Bruce", role: "Korekta" },
+  { name: "Elvans", role: "Grafika 3D" },
+  { name: "Drow", role: "Grafika 2D" },
+  { name: "Som3", role: "Grafika 2D" },
+  { name: "BroV@r", role: "Filmy (credits)" },
+  { name: "Dreamerion", role: "Muzyka" },
+  { name: "VZP", role: "Muzyka" },
 ];
+
+const poziomkazTesterzy =
+  "Avertheme, Drow, Fenix, Ghorri, HerrFlick, Inez, Jandułka_Jamkonorek, Kerht, Lares, Luk_asz, Lukis17, Marcel, Śmierć, Vhailor, Vierzba, Wujek Herr Flicka";
+
+const poziomkazTesterzyDubbingu =
+  "Adi1993, BroV@R, Bradock, Bruce, DonGringo, Dreamerion, Dreyhal, GornSnk, Marzec, Mecin, Patryk.nowy88, Radixxx, Varrok, Xardas22, Zsuetam";
 
 const beziTeam = [
   {
     category: "Twórca",
     members: [
-      { name: "Bezimienny111", role: "Pomysłodawca, skrypty, spacer, fabuła i dialogi" },
+      {
+        name: "Bezimienny111",
+        role: "Pomysłodawca, skrypty, spacer, fabuła i dialogi",
+      },
     ],
   },
   {
     category: "Zespół projektowy",
     members: [
-      { name: "Deetom554", role: "Członek zespołu projektowego, tester, autor solucji" },
+      {
+        name: "Deetom554",
+        role: "Członek zespołu projektowego, tester, autor solucji",
+      },
       { name: "Delph", role: "Członek zespołu projektowego, tester" },
-      { name: "Paweu", role: "Członek zespołu projektowego, tester, autor solucji" },
+      {
+        name: "Paweu",
+        role: "Członek zespołu projektowego, tester, autor solucji",
+      },
     ],
   },
   {
     category: "Wsparcie programistyczne",
     members: [
-      { name: "GnomoslaQ", role: "Biblioteka rozszerzająca możliwości silnika gry" },
+      {
+        name: "GnomoslaQ",
+        role: "Biblioteka rozszerzająca możliwości silnika gry",
+      },
     ],
   },
   {
@@ -38,7 +69,10 @@ const beziTeam = [
   {
     category: "Pomysłodawcy i korekty",
     members: [
-      { name: "Boris", role: "Pomysły fabularne: wątek myśliwych, korekta wielu dialogów" },
+      {
+        name: "Boris",
+        role: "Pomysły fabularne: wątek myśliwych, korekta wielu dialogów",
+      },
       { name: "Wagon", role: "Pomysły fabularne: wątek Kosiarza" },
       { name: "Iza", role: "Testerka, pomysły fabularne, balans" },
       { name: "MasqueradeBreaker", role: "Wsparcie w korekcie tekstów" },
@@ -78,7 +112,7 @@ const beziTeam = [
   },
 ];
 
-function TeamTable({ title, subtitle, members }) {
+function TeamTable({ title, subtitle, members, extraSections, videoSrc }) {
   return (
     <div className={styles.tableWrapper}>
       <h2 className={styles.tableTitle}>{title}</h2>
@@ -93,6 +127,23 @@ function TeamTable({ title, subtitle, members }) {
           <span>{m.role}</span>
         </div>
       ))}
+      {extraSections &&
+        extraSections.map((section, i) => (
+          <div key={i} className={styles.extraSection}>
+            <div className={styles.categoryLabel}>{section.label}</div>
+            <p className={styles.commaList}>{section.content}</p>
+          </div>
+        ))}
+      {videoSrc && (
+        <div className={styles.videoSection}>
+          <div className={styles.categoryLabel}>Dubbing</div>
+          <p className={styles.commaList}>Do obejrzenia na filmiku poniżej</p>
+          <video className={styles.creditsVideo} controls>
+            <source src={videoSrc} type="video/mp4" />
+            Twoja przeglądarka nie wspiera odtwarzania wideo.
+          </video>
+        </div>
+      )}
     </div>
   );
 }
@@ -135,6 +186,14 @@ export default function Autorzy() {
               title="The PoziomkaZ"
               subtitle="Autorzy oryginalnych Mrocznych Tajemnic"
               members={poziomkazTeam}
+              extraSections={[
+                { label: "Testerzy", content: poziomkazTesterzy },
+                {
+                  label: "Testerzy Dubbingu",
+                  content: poziomkazTesterzyDubbingu,
+                },
+              ]}
+              videoSrc="/img/video/credits.mp4"
             />
             <CategorizedTeam
               title="Zespół Bezimiennego111"

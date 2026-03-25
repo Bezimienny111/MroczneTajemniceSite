@@ -172,12 +172,12 @@ const config = {
                 href: "https://poziomkaz.pl/",
               },
               {
-                label: "Discord: Bezi - YT/Mody Gothic",
+                html: '<img src="/img/images/bezi.png" alt="" style="width:14px;height:14px;vertical-align:middle;margin-right:5px;"/>Bezi - YT/Mody Gothic',
                 href: "https://discord.gg/hP2g4MQS5T",
                 className: "discord-link",
               },
               {
-                label: "Discord Sefaris",
+                label: "Sefaris",
                 href: "https://discord.gg/9EVFJv5Uyf",
                 className: "discord-link",
               },
@@ -187,7 +187,7 @@ const config = {
                 className: "discord-link",
               },
               {
-                label: "Simon Said",
+                html: '<img src="/img/images/Simon.png" alt="" style="width:14px;height:14px;vertical-align:middle;margin-right:5px;"/>Simon Said',
                 href: "https://discord.gg/QjfXQeb7a",
                 className: "discord-link",
               },
