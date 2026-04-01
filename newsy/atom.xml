@@ -14,5 +14,6 @@
         <updated>2026-03-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Dział newsów w budowie. Zapraszamy wkrótce!]]></summary>
         <content type="html"><![CDATA[<p>Dział newsów w budowie. Zapraszamy wkrótce!</p>]]></content>
+        <category label="temp" term="temp"/>
     </entry>
 </feed>

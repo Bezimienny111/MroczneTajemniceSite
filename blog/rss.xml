@@ -25,13 +25,5 @@
             <category>Mroczne Tajemnice</category>
             <category>Wywiad</category>
         </item>
-        <item>
-            <title><![CDATA[Wkrótce...]]></title>
-            <link>https://www.mrocznetajemnice.pl/blog/coming-soon</link>
-            <guid>https://www.mrocznetajemnice.pl/blog/coming-soon</guid>
-            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog w budowie. Zapraszamy wkrótce!]]></description>
-            <content:encoded><![CDATA[<p>Blog w budowie. Zapraszamy wkrótce!</p>]]></content:encoded>
-        </item>
     </channel>
 </rss>

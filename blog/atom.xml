@@ -24,12 +24,4 @@
         <category label="Mroczne Tajemnice" term="Mroczne Tajemnice"/>
         <category label="Wywiad" term="Wywiad"/>
     </entry>
-    <entry>
-        <title type="html"><![CDATA[Wkrótce...]]></title>
-        <id>https://www.mrocznetajemnice.pl/blog/coming-soon</id>
-        <link href="https://www.mrocznetajemnice.pl/blog/coming-soon"/>
-        <updated>2026-03-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog w budowie. Zapraszamy wkrótce!]]></summary>
-        <content type="html"><![CDATA[<p>Blog w budowie. Zapraszamy wkrótce!</p>]]></content>
-    </entry>
 </feed>
