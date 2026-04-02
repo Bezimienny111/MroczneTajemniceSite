@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkbezimienny_111_github_io=globalThis.webpackChunkbezimienny_111_github_io||[]).push([[1445],{8133(e){e.exports=JSON.parse('{"tags":[{"label":"temp","permalink":"/newsy/tags/temp","count":1}]}')}}]);
