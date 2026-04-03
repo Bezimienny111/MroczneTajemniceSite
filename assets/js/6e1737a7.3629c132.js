@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkbezimienny_111_github_io=globalThis.webpackChunkbezimienny_111_github_io||[]).push([[7390],{4351(e){e.exports=JSON.parse('{"metadata":{"permalink":"/newsy","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

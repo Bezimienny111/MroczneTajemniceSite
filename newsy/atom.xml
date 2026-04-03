@@ -2,11 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mrocznetajemnice.pl/newsy</id>
     <title>Mroczne Tajemnice Blog</title>
-    <updated>2026-04-02T00:00:00.000Z</updated>
+    <updated>2026-04-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.mrocznetajemnice.pl/newsy"/>
     <subtitle>Mroczne Tajemnice Blog</subtitle>
     <icon>https://www.mrocznetajemnice.pl/img/images/MT_2.5_logo_WWW.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Najbardziej cziter… tzn. użyteczne pluginy pod Uniona]]></title>
+        <id>https://www.mrocznetajemnice.pl/newsy/pluginy-union</id>
+        <link href="https://www.mrocznetajemnice.pl/newsy/pluginy-union"/>
+        <updated>2026-04-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dziś chciałbym zaprosić Was w pierwszą podróż po najbardziej użytecznych pluginach (oczywiście to mój subiektywny wybór), które powstały dzięki możliwościom, jakie daje Union. Opiszę co nieco ich funkcjonalności, jak działają i skąd je można pobrać. Nie przedłużając — zapraszam do lektury.]]></summary>
+        <content type="html"><![CDATA[<img src="https://www.mrocznetajemnice.pl/img/images/Pluginy.png" alt="Najbardziej użyteczne pluginy pod Uniona" style="width:100%;border-radius:10px;margin-bottom:1.5rem">
+<p>Dziś chciałbym zaprosić Was w pierwszą podróż po najbardziej użytecznych pluginach (oczywiście to mój subiektywny wybór), które powstały dzięki możliwościom, jakie daje Union. Opiszę co nieco ich funkcjonalności, jak działają i skąd je można pobrać. Nie przedłużając — zapraszam do lektury.</p>
+<p><strong>Opisane pluginy:</strong></p>
+<div class="plugin-badges"><a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#1-zutilities"><span class="badge-num">1</span> zUtilities</a><a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#2-zhackchest"><span class="badge-num">2</span> zHackChest</a><a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#3-flyingcreaturesfix"><span class="badge-num">3</span> FlyingCreaturesFix</a><a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#4-quickslots"><span class="badge-num">4</span> QuickSlots</a><a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#5-snaplocator-tzw-pstrykacz"><span class="badge-num">5</span> SnapLocator</a><a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#6-voblocator"><span class="badge-num">6</span> VobLocator</a><a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#7-itemmap"><span class="badge-num">7</span> ItemMap</a><a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#8-eksperymentalny-plugin-unionminimap-by-tieru"><span class="badge-num">8</span> UnionMinimap</a><a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#9-autoquickloot"><span class="badge-num">9</span> AutoQuickLoot</a></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-zutilities">1. zUtilities<a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#1-zutilities" class="hash-link" aria-label="Bezpośredni link do 1. zUtilities" title="Bezpośredni link do 1. zUtilities" translate="no">​</a></h2>
+<p>Chyba najważniejszy i najbardziej podstawowy plugin, który powinien zainstalować każdy gracz Gothica. Dlaczego tak uważam? Ponieważ jedną z jego funkcji jest ulepszony szybki zapis, który wykorzystuje 5 slotów. Dodatkowo posiada takie funkcje, jak wyświetlanie liczby HP, pokazywanie obrażeń, wyświetlanie ilości posiadanych strzał/bełtów dla aktualnie założonej broni czy przyspieszenie czasu.</p>
+<div class="blog-note"><p><strong>📥 Źródło:</strong> Do pobrania ze <a href="https://www.sefaris.eu/union/plugins">strony Sefaris</a>.</p></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-zhackchest">2. zHackChest<a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#2-zhackchest" class="hash-link" aria-label="Bezpośredni link do 2. zHackChest" title="Bezpośredni link do 2. zHackChest" translate="no">​</a></h2>
+<p>Plugin dla osób zmęczonych minigierką lewo-prawo w trakcie otwierania zamków. Wspomaga otwieranie zamków poprzez dodanie możliwości szybkiego otwarcia za pomocą siły, zręczności lub many. Pozwala otworzyć zamek za pomocą jednego klawisza, z wykorzystaniem atrybutów. W zależności od wykorzystanego atrybutu gracz wykonuje inne animacje przy otwieraniu zamka.</p>
+<div class="blog-note"><p><strong>📥 Źródło:</strong> Najnowsza wersja testowa do pobrania z <a href="https://discord.gg/9EVFJv5Uyf">Discorda Sefaris</a> w sekcji <em>Union-pluginy-beta</em>.</p></div>
+<div class="screenshot-gallery"><a href="https://www.mrocznetajemnice.pl/img/images/Plugins_A/HC.png" target="_blank"><img src="https://www.mrocznetajemnice.pl/img/images/Plugins_A/HC.png" alt="zHackChest — otwieranie zamków"></a></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-flyingcreaturesfix">3. FlyingCreaturesFix<a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#3-flyingcreaturesfix" class="hash-link" aria-label="Bezpośredni link do 3. FlyingCreaturesFix" title="Bezpośredni link do 3. FlyingCreaturesFix" translate="no">​</a></h2>
+<p>Dużo tu nie będę opisywał, a przekopiuję opis ze strony Sefaris, z której można go pobrać:</p>
+<div class="interview-qa"><div class="interview-answer"><div class="interview-person">Opis ze strony Sefaris</div><p>Plugin naprawia problemy z blokowaniem się potworów na krawędziach oraz z latającymi potworami, które unoszą się zbyt wysoko nad ziemią, przez co nie można ich uderzyć bronią białą.</p></div></div>
+<div class="blog-note"><p><strong>📥 Źródło:</strong> Do pobrania ze <a href="https://www.sefaris.eu/union/plugins">strony Sefaris</a>.</p></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-quickslots">4. QuickSlots<a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#4-quickslots" class="hash-link" aria-label="Bezpośredni link do 4. QuickSlots" title="Bezpośredni link do 4. QuickSlots" translate="no">​</a></h2>
+<p>Plugin dodający pasek szybkiego dostępu znany z wielu gier RPG. Pozwolę tutaj się pokusić o skopiowanie opisu od autora pluginu — <strong>fyryNy</strong>:</p>
+<div class="interview-qa"><div class="interview-answer"><div class="interview-person">fyryNy</div><p>Pasek szybkiego dostępu przedmiotów z opcją slotów alternatywnych oraz możliwością zapisywania presetów.</p><p><strong>Funkcjonalności:</strong></p><ul>
+<li class="">Możliwość dowolnego przypisywania przedmiotów/spelli pod klawisze 1–0, zamiast pod klawisze funkcyjne (F1–F10 czy ile tam obsługują ruskie pluginy).</li>
+<li class="">Możliwość przypisania łącznie nawet 20 itemów/spelli.</li>
+<li class="">Możliwość zapisania 4 presetów (zapisuje przypisania itemów na pasku, a także aktualnie wyekwipowane przedmioty).</li>
+</ul></div></div>
+<div class="blog-note"><p><strong>📥 Źródło:</strong> Najnowsza wersja testowa do pobrania z <a href="https://discord.gg/9EVFJv5Uyf">Discorda Sefaris</a> w sekcji <em>Union-pluginy-beta</em>.</p></div>
+<div class="screenshot-gallery"><a href="https://www.mrocznetajemnice.pl/img/images/Plugins_A/QS.png" target="_blank"><img src="https://www.mrocznetajemnice.pl/img/images/Plugins_A/QS.png" alt="QuickSlots — pasek szybkiego dostępu"></a></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-snaplocator-tzw-pstrykacz">5. SnapLocator, tzw. „Pstrykacz"<a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#5-snaplocator-tzw-pstrykacz" class="hash-link" aria-label="Bezpośredni link do 5. SnapLocator, tzw. „Pstrykacz&quot;" title="Bezpośredni link do 5. SnapLocator, tzw. „Pstrykacz&quot;" translate="no">​</a></h2>
+<p>Jedną z funkcji, która jest bardzo często spotykana w wielu grach RPG (i nie tylko) — również nawet tych starszych — jest możliwość podświetlania przedmiotów w okolicy gracza. SnapLocator pozwala właśnie na coś takiego, w sposób, który nie zaburza odczuć w trakcie rozgrywki. Zgodnie z opisem:</p>
+<div class="interview-qa"><div class="interview-answer"><div class="interview-person">Opis pluginu</div><p>Plugin nakłada efekty cząsteczkowe na pobliskie przedmioty, które można podnieść, dzięki czemu można je łatwiej zauważyć.</p></div></div>
+<p>A skąd nazwa „Pstrykacz"? W momencie użycia postać wykonuje animację pstryknięcia palcami, a akcji tej towarzyszy odpowiedni odgłos.</p>
+<div class="blog-note"><p><strong>😄 Ciekawostka:</strong> Chodzą słuchy, że najtrudniejszą częścią prac nad pluginem było uzyskanie idealnego odgłosu pstryknięcia palcami przez autora pluginu <strong>fyryNy</strong> — oczywiście to żart. 😉</p></div>
+<div class="blog-note"><p><strong>📥 Źródło:</strong> Najnowsza wersja testowa do pobrania z <a href="https://discord.gg/9EVFJv5Uyf">Discorda Sefaris</a> w sekcji <em>Union-pluginy-beta</em>.</p></div>
+<div class="screenshot-gallery"><a href="https://www.mrocznetajemnice.pl/img/images/Plugins_A/Snap.png" target="_blank"><img src="https://www.mrocznetajemnice.pl/img/images/Plugins_A/Snap.png" alt="SnapLocator — podświetlanie przedmiotów"></a></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="6-voblocator">6. VobLocator<a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#6-voblocator" class="hash-link" aria-label="Bezpośredni link do 6. VobLocator" title="Bezpośredni link do 6. VobLocator" translate="no">​</a></h2>
+<p>Alternatywa, zdecydowanie bardziej inwazyjna dla odczuć w rozgrywce niż SnapLocator. Zależnie od wersji, w formie ikonek albo świecących punktów, wskazuje w świecie gry praktycznie wszystkie elementy — od itemów, przez skrzynki i przełączniki, po NPC-ów. Ma zdecydowanie więcej funkcjonalności, ale w opinii części graczy psuje odczucia w trakcie rozgrywki. Sam używam go czasem w przypadku poszukiwania ukrytych przełączników.</p>
+<div class="blog-note"><p><strong>⚠️ Uwaga:</strong> „Plugin zakazany regulaminem gry w Gothica w punkcie 404, ustępie 69 paragrafu 2147" 🙃</p></div>
+<div class="blog-note"><p><strong>📥 Źródło:</strong> Do pobrania ze <a href="https://www.sefaris.eu/union/plugins">strony Sefaris</a>.</p></div>
+<div class="screenshot-gallery"><a href="https://www.mrocznetajemnice.pl/img/images/Plugins_A/vob.png" target="_blank"><img src="https://www.mrocznetajemnice.pl/img/images/Plugins_A/vob.png" alt="VobLocator — wskazywanie elementów świata"></a></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="7-itemmap">7. ItemMap<a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#7-itemmap" class="hash-link" aria-label="Bezpośredni link do 7. ItemMap" title="Bezpośredni link do 7. ItemMap" translate="no">​</a></h2>
+<p>Jeden z najważniejszych pluginów dla graczy, którzy uwielbiają maksować grę. Po otworzeniu mapy wyświetla w formie punktów przedmioty, NPC-ów, skrzynki bądź elementy interaktywne — zależnie od wybranego trybu. Dodatkowo pozwala na filtrowanie po nazwach bądź instancjach. Brakuje Ci jednego szczawiu królewskiego? Żaden problem. Zniknął Ci jakiś NPC? Wpisz jego imię. W najnowszych wersjach mamy również takie funkcje, jak przeszukiwanie ekwipunku NPC-ów, przeszukiwanie zawartości skrzynek czy możliwość użycia pluginu, nawet gdy gracz nie posiada mapy lokacji.</p>
+<div class="blog-note"><p><strong>📥 Źródło:</strong> Do pobrania ze <a href="https://www.sefaris.eu/union/plugins">strony Sefaris</a>.</p></div>
+<div class="screenshot-gallery"><a href="https://www.mrocznetajemnice.pl/img/images/Plugins_A/item1png.png" target="_blank"><img src="https://www.mrocznetajemnice.pl/img/images/Plugins_A/item1png.png" alt="ItemMap — mapa przedmiotów 1"></a><a href="https://www.mrocznetajemnice.pl/img/images/Plugins_A/item2png.png" target="_blank"><img src="https://www.mrocznetajemnice.pl/img/images/Plugins_A/item2png.png" alt="ItemMap — mapa przedmiotów 2"></a></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="8-eksperymentalny-plugin-unionminimap-by-tieru">8. Eksperymentalny plugin UnionMinimap by Tieru<a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#8-eksperymentalny-plugin-unionminimap-by-tieru" class="hash-link" aria-label="Bezpośredni link do 8. Eksperymentalny plugin UnionMinimap by Tieru" title="Bezpośredni link do 8. Eksperymentalny plugin UnionMinimap by Tieru" translate="no">​</a></h2>
+<p>Minimapa — dla jednych nieodłączny element gier RPG, dla innych śmiertelny wróg immersyjności. Ale tak, minimapa w Gothicu — nikt się nie spodziewał, ale jest. Jakie ma funkcje? Pokazuje NPC-ów, itemy, skrzynki w najbliższej okolicy. Ale nie tylko — ma również możliwość wyszukania jakiegoś NPC w świecie gry i wyznaczenia prostej linii do niego. O szczegółach możecie poczytać pod poniższym linkiem.</p>
+<div class="blog-note"><p><strong>⚠️ Uwaga:</strong> Jest to bardzo eksperymentalny plugin i nie gwarantuję działania z każdym modem. Sam zauważyłem, że na przykład w przypadku G1 działa mi tylko wersja 3.1.</p></div>
+<div class="blog-note"><p><strong>📥 Źródło:</strong> Do pobrania z <a href="https://github.com/TieruYT/UnionMinimap/releases">GitHuba autora</a>.</p></div>
+<div class="screenshot-gallery"><a href="https://www.mrocznetajemnice.pl/img/images/Plugins_A/Minimap.png" target="_blank"><img src="https://www.mrocznetajemnice.pl/img/images/Plugins_A/Minimap.png" alt="UnionMinimap — minimapa 1"></a><a href="https://www.mrocznetajemnice.pl/img/images/Plugins_A/minimap2.png" target="_blank"><img src="https://www.mrocznetajemnice.pl/img/images/Plugins_A/minimap2.png" alt="UnionMinimap — minimapa 2"></a></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="9-autoquickloot">9. AutoQuickLoot<a href="https://www.mrocznetajemnice.pl/newsy/pluginy-union#9-autoquickloot" class="hash-link" aria-label="Bezpośredni link do 9. AutoQuickLoot" title="Bezpośredni link do 9. AutoQuickLoot" translate="no">​</a></h2>
+<p>Szybkie zbieranie przedmiotów bez animacji podnoszenia — jeden z najbardziej użytecznych pluginów, który zapewnia ogromną oszczędność czasu. Dodatkowo wersja od <strong>Hedina</strong> posiada opcjonalną funkcję automatycznego zbierania przedmiotów leżących dookoła gracza, która działa o wiele sprawniej od starego pluginu na ognika. Plugin oferuje również konfigurację odległości, z jakiej ma automatycznie zbierać, a także możliwość wykluczenia z szybkiego podnoszenia przedmiotów związanych z misjami, skrzynek czy przeszukiwania ciał.</p>
+<div class="blog-note"><p><strong>📥 Źródło:</strong> Do pobrania ze <a href="https://www.sefaris.eu/union/plugins">strony Sefaris</a>.</p></div>]]></content>
+        <author>
+            <name>Bezimienny111</name>
+            <uri>https://www.youtube.com/@Bezimienny111</uri>
+        </author>
+        <category label="Pluginy" term="Pluginy"/>
+        <category label="Union" term="Union"/>
+        <category label="Modyfikacje" term="Modyfikacje"/>
+        <category label="Gothic" term="Gothic"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spolszczenie modyfikacji Escape from Freedom (Ucieczka od Wolności)]]></title>
         <id>https://www.mrocznetajemnice.pl/newsy/spolszczenie-escape-from-freedom</id>
@@ -32,6 +95,10 @@
 </ul></div></div>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="screenshoty">Screenshoty<a href="https://www.mrocznetajemnice.pl/newsy/spolszczenie-escape-from-freedom#screenshoty" class="hash-link" aria-label="Bezpośredni link do Screenshoty" title="Bezpośredni link do Screenshoty" translate="no">​</a></h2>
 <div class="screenshot-gallery"><a href="https://www.mrocznetajemnice.pl/img/images/EFF/image%20(1).webp" target="_blank"><img src="https://www.mrocznetajemnice.pl/img/images/EFF/image%20(1).webp" alt="Screenshot 1"></a><a href="https://www.mrocznetajemnice.pl/img/images/EFF/image%20(2).webp" target="_blank"><img src="https://www.mrocznetajemnice.pl/img/images/EFF/image%20(2).webp" alt="Screenshot 2"></a><a href="https://www.mrocznetajemnice.pl/img/images/EFF/image%20(3).webp" target="_blank"><img src="https://www.mrocznetajemnice.pl/img/images/EFF/image%20(3).webp" alt="Screenshot 3"></a><a href="https://www.mrocznetajemnice.pl/img/images/EFF/image%20(4).webp" target="_blank"><img src="https://www.mrocznetajemnice.pl/img/images/EFF/image%20(4).webp" alt="Screenshot 4"></a><a href="https://www.mrocznetajemnice.pl/img/images/EFF/image%20(5).webp" target="_blank"><img src="https://www.mrocznetajemnice.pl/img/images/EFF/image%20(5).webp" alt="Screenshot 5"></a><a href="https://www.mrocznetajemnice.pl/img/images/EFF/image%20(6).webp" target="_blank"><img src="https://www.mrocznetajemnice.pl/img/images/EFF/image%20(6).webp" alt="Screenshot 6"></a><a href="https://www.mrocznetajemnice.pl/img/images/EFF/image%20(7).webp" target="_blank"><img src="https://www.mrocznetajemnice.pl/img/images/EFF/image%20(7).webp" alt="Screenshot 7"></a><a href="https://www.mrocznetajemnice.pl/img/images/EFF/image%20(15).webp" target="_blank"><img src="https://www.mrocznetajemnice.pl/img/images/EFF/image%20(15).webp" alt="Screenshot 8"></a></div>]]></content>
+        <author>
+            <name>Bezimienny111</name>
+            <uri>https://www.youtube.com/@Bezimienny111</uri>
+        </author>
         <category label="Modyfikacje" term="Modyfikacje"/>
         <category label="Addon" term="Addon"/>
         <category label="Gothic1" term="Gothic1"/>
@@ -45,6 +112,10 @@
         <updated>2026-03-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Dział newsów w budowie. Zapraszamy wkrótce!]]></summary>
         <content type="html"><![CDATA[<p>Dział newsów w budowie. Zapraszamy wkrótce!</p>]]></content>
+        <author>
+            <name>Bezimienny111</name>
+            <uri>https://www.youtube.com/@Bezimienny111</uri>
+        </author>
         <category label="temp" term="temp"/>
     </entry>
 </feed>
