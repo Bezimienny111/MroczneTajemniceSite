@@ -4,10 +4,40 @@
         <title>Mroczne Tajemnice Blog</title>
         <link>https://www.mrocznetajemnice.pl/blog</link>
         <description>Mroczne Tajemnice Blog</description>
-        <lastBuildDate>Wed, 01 Apr 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[Pierwszy teaser nowych czarów: Mroczne Tajemnice 2.5.2]]></title>
+            <link>https://www.mrocznetajemnice.pl/blog/nowe-czary-mt-252</link>
+            <guid>https://www.mrocznetajemnice.pl/blog/nowe-czary-mt-252</guid>
+            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cześć! Chciałbym dziś zaprezentować, jak będzie wyglądała część nowych czarów w nadchodzącej wersji Mrocznych Tajemnic 2.5.2.]]></description>
+            <content:encoded><![CDATA[<p>Cześć! Chciałbym dziś zaprezentować, jak będzie wyglądała część nowych czarów w nadchodzącej wersji <strong>Mrocznych Tajemnic 2.5.2</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="magia-w-gothic-1">Magia w Gothic 1<a href="https://www.mrocznetajemnice.pl/blog/nowe-czary-mt-252#magia-w-gothic-1" class="hash-link" aria-label="Bezpośredni link do Magia w Gothic 1" title="Bezpośredni link do Magia w Gothic 1" translate="no">​</a></h2>
+<p>Magia w Gothic 1 niestety nie jest najlepiej wykonana, ale staram się ją trochę urozmaicić i dalej zbalansować, tak aby przejście nią było jak najbardziej komfortowe, a płynność rozgrywki była zbliżona do tego, co uświadczymy, grając pod broń białą czy też dystansową.</p>
+<p>Postanowiłem więc dołożyć trochę czarów – najczęściej o dość prostych konstrukcjach – dla szkół magii, u których uznałem, że trochę czegoś brakuje.</p>
+<div style="text-align:center;margin:2rem 0"><iframe width="560" height="315" src="https://www.youtube.com/embed/AQqVke8CuQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<p>Na pierwszy ogień rzucam wam więc nowe czary <strong>Sekty</strong> i <strong>Nekromantów</strong>:</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="nekromanci">Nekromanci<a href="https://www.mrocznetajemnice.pl/blog/nowe-czary-mt-252#nekromanci" class="hash-link" aria-label="Bezpośredni link do Nekromanci" title="Bezpośredni link do Nekromanci" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Uderzenie Nieumarłego</strong> – prosty czar-pocisk, odpowiednik Ognistego Pocisku i Sopla Lodu, tak aby ktoś, kto uwielbia mroczną magię, mógł znaleźć również czar dla siebie.</li>
+<li class=""><strong>Krzyk Nieumarłych</strong> – wzmocniona wersja poprzedniego czaru. Po uderzeniu w cel zadaje obszarowe obrażenia dookoła.</li>
+<li class=""><strong>Eksplozja</strong> – pocisk energii zadający dość duże obrażenia na małym obszarze.</li>
+<li class=""><strong>Wstęga Śmierci</strong> – potężny pocisk mrocznej energii zadający ogromne obrażenia celowi.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="sekta">Sekta<a href="https://www.mrocznetajemnice.pl/blog/nowe-czary-mt-252#sekta" class="hash-link" aria-label="Bezpośredni link do Sekta" title="Bezpośredni link do Sekta" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Duchowa Strzała</strong> – tak jak Uderzenie Nieumarłego, jest odpowiednikiem czarów lodu i ognia z pierwszego kręgu.</li>
+<li class=""><strong>Mór</strong> – silny czar obszarowy. Zabójcze macki bagiennego pochodzenia roznoszą zarazę, zadając obrażenia wszystkim przeciwnikom dookoła gracza.</li>
+<li class=""><strong>Zmiażdżenie Umysłów</strong> – najpotężniejszy czar Guru. Nie dość, że zadaje obrażenia każdemu przeciwnikowi w zasięgu, to u tych, których umysł jest słaby, zadaje obrażenia jak przy działaniu pirokinezy.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="co-dalej">Co dalej?<a href="https://www.mrocznetajemnice.pl/blog/nowe-czary-mt-252#co-dalej" class="hash-link" aria-label="Bezpośredni link do Co dalej?" title="Bezpośredni link do Co dalej?" translate="no">​</a></h2>
+<p>Czy to wszystkie zmiany, jeśli chodzi o magię? Oczywiście, że nie. Postaram się regularnie w nadchodzących tygodniach wrzucać więcej informacji – nie tylko o magii.</p>
+<p><strong>Siła i honor, Wojownicy!</strong></p>]]></content:encoded>
+            <category>Mroczne Tajemnice</category>
+        </item>
         <item>
             <title><![CDATA[Wywiad ze Zdunkiem z The PoziomkaZ]]></title>
             <link>https://www.mrocznetajemnice.pl/blog/wywiad-z-the-poziomkaz</link>

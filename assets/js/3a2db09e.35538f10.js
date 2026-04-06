@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkbezimienny_111_github_io=globalThis.webpackChunkbezimienny_111_github_io||[]).push([[8121],{8070(e){e.exports=JSON.parse('{"tags":[{"label":"Mroczne Tajemnice","permalink":"/blog/tags/mroczne-tajemnice","count":1},{"label":"Wywiad","permalink":"/blog/tags/wywiad","count":1}]}')}}]);
