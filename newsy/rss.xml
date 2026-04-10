@@ -150,14 +150,5 @@
             <category>Sefaris</category>
             <category>Spolszczenie</category>
         </item>
-        <item>
-            <title><![CDATA[Wkrótce...]]></title>
-            <link>https://www.mrocznetajemnice.pl/newsy/coming-soon</link>
-            <guid>https://www.mrocznetajemnice.pl/newsy/coming-soon</guid>
-            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Dział newsów w budowie. Zapraszamy wkrótce!]]></description>
-            <content:encoded><![CDATA[<p>Dział newsów w budowie. Zapraszamy wkrótce!</p>]]></content:encoded>
-            <category>temp</category>
-        </item>
     </channel>
 </rss>

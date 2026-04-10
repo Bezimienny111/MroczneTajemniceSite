@@ -2,11 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mrocznetajemnice.pl/blog</id>
     <title>Mroczne Tajemnice Blog</title>
-    <updated>2026-04-06T00:00:00.000Z</updated>
+    <updated>2026-04-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.mrocznetajemnice.pl/blog"/>
     <subtitle>Mroczne Tajemnice Blog</subtitle>
     <icon>https://www.mrocznetajemnice.pl/img/images/MT_2.5_logo_WWW.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Mroczne Tajemnice 2.5 — Geneza i wyjaśnienie zmian fabularnych]]></title>
+        <id>https://www.mrocznetajemnice.pl/blog/geneza-zmian-fabularnych-mt-25</id>
+        <link href="https://www.mrocznetajemnice.pl/blog/geneza-zmian-fabularnych-mt-25"/>
+        <updated>2026-04-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Zapraszam serdecznie na troszkę dłuższy wpis, w którym opowiadam o genezie zmian fabularnych — o tym, jak fabuła ewoluowała i dlaczego zdecydowałem się pokierować losem Bezimiennego w Mrocznych Tajemnicach 2.5 właśnie w taki, a nie inny sposób.]]></summary>
+        <content type="html"><![CDATA[<p>Zapraszam serdecznie na troszkę dłuższy wpis, w którym opowiadam o genezie zmian fabularnych — o tym, jak fabuła ewoluowała i dlaczego zdecydowałem się pokierować losem Bezimiennego w Mrocznych Tajemnicach 2.5 właśnie w taki, a nie inny sposób.</p>
+<p>Zacznijmy od tego, że w głównych filarach projektu — jak sobie je określiłem, było zapewnienie bezproblemowej rozgrywki tak, by gracz nie zablokował sobie gry od strony fabularnej (co już praktycznie w 100% zostało osiągnięte w wersji 2.5.1 — Przeklęty Koso, patrzę tu na ciebie), oraz wyprostowanie fabuły zakończenia tak, aby była otwarta na kontynuację w ramach moda do G2 NK.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="co-było-do-wyprostowania">Co było do wyprostowania?<a href="https://www.mrocznetajemnice.pl/blog/geneza-zmian-fabularnych-mt-25#co-by%C5%82o-do-wyprostowania" class="hash-link" aria-label="Bezpośredni link do Co było do wyprostowania?" title="Bezpośredni link do Co było do wyprostowania?" translate="no">​</a></h2>
+<p>Zaczniemy od tego, co tak naprawdę było do wyprostowania, bo będzie to najprościej wymienić.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-śmierć-ur-shaka-i-jego-nieumarły-sobowtór-w-ostatecznej-walce-w-świątyni-śniącego">1. Śmierć Ur-Shaka i jego nieumarły sobowtór w ostatecznej walce w Świątyni Śniącego<a href="https://www.mrocznetajemnice.pl/blog/geneza-zmian-fabularnych-mt-25#1-%C5%9Bmier%C4%87-ur-shaka-i-jego-nieumar%C5%82y-sobowt%C3%B3r-w-ostatecznej-walce-w-%C5%9Bwi%C4%85tyni-%C5%9Bni%C4%85cego" class="hash-link" aria-label="Bezpośredni link do 1. Śmierć Ur-Shaka i jego nieumarły sobowtór w ostatecznej walce w Świątyni Śniącego" title="Bezpośredni link do 1. Śmierć Ur-Shaka i jego nieumarły sobowtór w ostatecznej walce w Świątyni Śniącego" translate="no">​</a></h3>
+<p>O ile ostateczna walka jako wyjaśnienie tego, jakim sposobem główny bohater nie dał rady uciec ze świątyni, może i miała trochę sensu (ale niestety była tak zbugowana, że wybrałem inną drogę — choć adoptującą ogólny powód, czyli utratę mocy przez bohatera), tak sam Ur-Shak — który przecież żyje w G2, nie miał tu żadnego sensu. Stąd też w Świątyni Śniącego pojawia się inna postać, a samego Ur-Shaka czeka trochę inny los.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-śmierć-wszystkich-nowych-postaci-dodanych-w-mrocznych-tajemnicach">2. Śmierć wszystkich nowych postaci dodanych w Mrocznych Tajemnicach<a href="https://www.mrocznetajemnice.pl/blog/geneza-zmian-fabularnych-mt-25#2-%C5%9Bmier%C4%87-wszystkich-nowych-postaci-dodanych-w-mrocznych-tajemnicach" class="hash-link" aria-label="Bezpośredni link do 2. Śmierć wszystkich nowych postaci dodanych w Mrocznych Tajemnicach" title="Bezpośredni link do 2. Śmierć wszystkich nowych postaci dodanych w Mrocznych Tajemnicach" translate="no">​</a></h3>
+<p>Niestety wyjaśnienie dane nam przez nieumarłego Ur-Shaka niezbyt mnie przekonało i nigdy też nie byłem zwolennikiem tej wizji. Tyle starań, by uciec; tyle starań, aby zdobyć zaufanie i przyjaźń postaci — tylko po to, by dowiedzieć się, że wszyscy giną. Nie tędy droga - szczególnie, że wiele z tych postaci było tak charakterystycznych.</p>
+<hr>
+<p>Oba punkty zostały rozwiązane w dość prosty sposób. <strong>Punkt 1</strong> — Ur-Shak żyje, zaś zakończenie jest ciut inne. <strong>Punkt 2</strong> został rozwiązany przez wprowadzenie całego dodatkowego wątku związanego z przygotowaniem do opuszczenia Kolonii i porządkami w Starym Obozie, który rozpoczyna się, kiedy Xardas nie jest w stanie przygotować zwoju do naładowania Uriziela. Tu też przy okazji wyjaśnia się co nieco, jak postacie ze Starego Obozu przeżyły i pod dowództwem Kruka trafiły do Jarkendaru. Ale to nie wszystko — aby zapewnić spójność fabularną, konieczne były kolejne zmiany.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="ujednolicenie-ścieżki-fabularnej-i-zapełnienie-rozdziałów">Ujednolicenie ścieżki fabularnej i zapełnienie rozdziałów<a href="https://www.mrocznetajemnice.pl/blog/geneza-zmian-fabularnych-mt-25#ujednolicenie-%C5%9Bcie%C5%BCki-fabularnej-i-zape%C5%82nienie-rozdzia%C5%82%C3%B3w" class="hash-link" aria-label="Bezpośredni link do Ujednolicenie ścieżki fabularnej i zapełnienie rozdziałów" title="Bezpośredni link do Ujednolicenie ścieżki fabularnej i zapełnienie rozdziałów" translate="no">​</a></h2>
+<p>Decyzje, które zostały uznane przez część graczy za kontrowersyjne - z mojej perspektywy były jednak niezbędne. Ale po kolei:</p>
+<ol>
+<li class="">Zdecydowałem, aby wątki dodane w Mrocznych Tajemnicach — Przemytnicy, obóz strażników kopalni oraz Pradawni — były nieodłącznym elementem głównej fabuły.</li>
+<li class="">Zdecydowałem, aby dołączenie do obozu strażników przed Starą Kopalnią było stałym elementem fabuły.</li>
+<li class="">Zdecydowałem się (od wersji 2.5.1) zapewnić możliwość awansu w startowej gildii jeszcze w pierwszym rozdziale.</li>
+</ol>
+<p>A teraz rozwińmy i wyjaśnijmy — co i dlaczego.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="odpowiedź-1--wątki-dodatkowe-jako-element-głównej-fabuły">Odpowiedź 1 — Wątki dodatkowe jako element głównej fabuły<a href="https://www.mrocznetajemnice.pl/blog/geneza-zmian-fabularnych-mt-25#odpowied%C5%BA-1--w%C4%85tki-dodatkowe-jako-element-g%C5%82%C3%B3wnej-fabu%C5%82y" class="hash-link" aria-label="Bezpośredni link do Odpowiedź 1 — Wątki dodatkowe jako element głównej fabuły" title="Bezpośredni link do Odpowiedź 1 — Wątki dodatkowe jako element głównej fabuły" translate="no">​</a></h3>
+<p>Exp to exp, a questy to questy. Można zarzucić, że „ale to był mój wybór, czy chciałem ten wątek robić", ale powiedzmy sobie szczerze — zdecydowana większość z nas zawsze je robiła ze względu na doświadczenie oraz nagrody. Dodatkowo dodanie i podzielenie tych wątków na rozdziały zapewnia większą spójność historii oraz pozwala na lepsze zarządzanie warunkami w zadaniach tak, aby gracz nie zrobił sobie krzywdy, bo coś zrobił w złej kolejności.</p>
+<p>Oprócz tego, wplecenie Pradawnych i sprawienie, że dopiero w trzecim rozdziale możemy podjąć ich wątek, ma swoje wyjaśnienie od strony balansu — zapobiega to zbyt szybkiemu osiągnięciu przez gracza zbyt wysokich statystyk - a z drugiej strony sprawia, że bohater na tym etapie będzie wystarczająco silny, by podjąć wyzwanie, jakim jest podziemny świat. Dodatkowo podział zadań na rozdziały ma za zadanie zapełnić każdy z nich jakimś wątkiem i wydarzeniami — a nie jak w G1, gdzie 90% różnych rzeczy dzieje się w pierwszym rozdziale, a potem pozostaje tylko bieg z głównym wątkiem, aby uciec.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="odpowiedź-2--obowiązkowe-dołączenie-do-obozu-strażników">Odpowiedź 2 — Obowiązkowe dołączenie do Obozu Strażników<a href="https://www.mrocznetajemnice.pl/blog/geneza-zmian-fabularnych-mt-25#odpowied%C5%BA-2--obowi%C4%85zkowe-do%C5%82%C4%85czenie-do-obozu-stra%C5%BCnik%C3%B3w" class="hash-link" aria-label="Bezpośredni link do Odpowiedź 2 — Obowiązkowe dołączenie do Obozu Strażników" title="Bezpośredni link do Odpowiedź 2 — Obowiązkowe dołączenie do Obozu Strażników" translate="no">​</a></h3>
+<p>Chyba najbardziej kontrowersyjna decyzja. Jak to wymuszenie dołączenia do gildii? Tak nie można!!!</p>
+<p>Zacznijmy od spróbowania odpowiedzenia sobie na pytania — jaki jest cel i sens dołączenia do gildii w G1 oraz co to dla gracza zmienia?</p>
+<p>Rozdział pierwszy ma za zadanie zapoznać gracza z tym, jak wygląda kolonia. Kto kim jest, jak wyglądają relacje między obozami. Jest takim samouczkiem świata G1. Każdy obóz jest wypełniony zadaniami dotyczącymi przyłączenia się do nich i zadania te wysyłają bohatera między obozami. Ale jakie znaczenie ma dla nas dołączenie do któregoś z obozów? Na co to wpływa?</p>
+<p>Otóż z perspektywy fabuły — tak naprawdę na nic. Wszystkie wydarzenia i tak dzieją się tak samo. Jedyna różnica tkwi tak naprawdę w możliwościach tego, jak ukończymy rozgrywkę. Ale tu też Gothic 1 daje tylko dwa wybory. Granie 1H→2H, czyli w sumie każdy obóz bez różnicy, bądź granie 1H→magia, i tu tak naprawdę jedynym wyborem jest Stary Obóz, bo daje nam najwcześniejszy dostęp do magii. Dlaczego tylko taki wybór? Ponieważ Uriziel jest bronią dwuręczną albo runą. W Nowym Obozie magiem zostajemy za późno, zaś Sekta nie pozwala na nauczenie się szóstego kręgu.</p>
+<p>Dlatego też podjąłem decyzję, że od strony fabularnej zostajemy przywódcą obozu strażników kopalni — niezależnie od tego, do którego obozu wcześniej dołączyliśmy. Szczególnie, że to dołączenie do obozu, a potem zostanie przywódcą obozu, pozwala w ciekawy sposób poprowadzić historię — przy czym historycznie poprzednie nasze obozy wciąż traktują nas jak swojego. Tu po raz kolejny wchodzi aspekt, że takie podejście zapewnia większą kontrolę nad warunkami w zadaniach, minimalizuje ryzyko zablokowania sobie questów oraz — co z mojej perspektywy było ważne — zapewnia spójną historię pod kontynuację.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="odpowiedź-3--awans-w-gildii-w-pierwszym-rozdziale">Odpowiedź 3 — Awans w gildii w pierwszym rozdziale<a href="https://www.mrocznetajemnice.pl/blog/geneza-zmian-fabularnych-mt-25#odpowied%C5%BA-3--awans-w-gildii-w-pierwszym-rozdziale" class="hash-link" aria-label="Bezpośredni link do Odpowiedź 3 — Awans w gildii w pierwszym rozdziale" title="Bezpośredni link do Odpowiedź 3 — Awans w gildii w pierwszym rozdziale" translate="no">​</a></h3>
+<p>Tutaj po czasie uznałem, że jak najbardziej jest miejsce na odpowiednie zadania, aby główny bohater był w stanie wystarczająco się wykazać i móc awansować na Strażnika Świątynnego, Strażnika w Starym Obozie czy Najemnika. Dodatkowo wpasowuje się to w fabułę, ponieważ trochę trudno mi sobie wyobrazić, by jakiś Cień, Szkodnik czy Nowicjusz był w stanie przebić się przez gniazdo pełzaczy i zabić ich królową — gdy z ilością pełzaczy w tej odnodze mieli problem wszyscy strażnicy w kopalni, że aż została tam zamontowana krata.</p>
+<hr>
+<p>Żeby Was nie zanudzać, tutaj dziś postawię kropkę. W kolejnym wpisie postaram się zahaczyć o temat szkół magii oraz o podejście do balansu, jeśli chodzi o naukę i ekonomię.</p>
+<p><strong>Siła i honor, Wojownicy!</strong></p>]]></content>
+        <author>
+            <name>Bezimienny111</name>
+            <uri>https://www.youtube.com/@Bezimienny111</uri>
+        </author>
+        <author>
+            <name>Paweu</name>
+        </author>
+        <category label="Mroczne Tajemnice" term="Mroczne Tajemnice"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pierwszy teaser nowych czarów: Mroczne Tajemnice 2.5.2]]></title>
         <id>https://www.mrocznetajemnice.pl/blog/nowe-czary-mt-252</id>

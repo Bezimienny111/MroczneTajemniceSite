@@ -161,17 +161,4 @@
         <category label="Sefaris" term="Sefaris"/>
         <category label="Spolszczenie" term="Spolszczenie"/>
     </entry>
-    <entry>
-        <title type="html"><![CDATA[Wkrótce...]]></title>
-        <id>https://www.mrocznetajemnice.pl/newsy/coming-soon</id>
-        <link href="https://www.mrocznetajemnice.pl/newsy/coming-soon"/>
-        <updated>2026-03-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dział newsów w budowie. Zapraszamy wkrótce!]]></summary>
-        <content type="html"><![CDATA[<p>Dział newsów w budowie. Zapraszamy wkrótce!</p>]]></content>
-        <author>
-            <name>Bezimienny111</name>
-            <uri>https://www.youtube.com/@Bezimienny111</uri>
-        </author>
-        <category label="temp" term="temp"/>
-    </entry>
 </feed>
