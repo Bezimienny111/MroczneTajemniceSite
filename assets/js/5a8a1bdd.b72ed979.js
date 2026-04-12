@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkbezimienny_111_github_io=globalThis.webpackChunkbezimienny_111_github_io||[]).push([[4041],{803(e){e.exports=JSON.parse('{"authors":[{"name":"Bezimienny111","url":"https://www.youtube.com/@Bezimienny111","key":"Bezimienny111","page":null,"count":4}]}')}}]);

@@ -9,6 +9,118 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
         <item>
+            <title><![CDATA[Nowa polska wersja ModPacka do Gothic 3 (UNION+ 1.7.2)]]></title>
+            <link>https://www.mrocznetajemnice.pl/newsy/union-plus-1-7-2</link>
+            <guid>https://www.mrocznetajemnice.pl/newsy/union-plus-1-7-2</guid>
+            <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pojawiła się nowa polska wersja modpacka UNION+ do Gothic 3, stworzonego przez zespół Sefaris — aktualizacja 1.7.2. Paczka przynosi ogromną ilość zmian, w tym gruntowny rebalans broni i magii w ramach modułu Total Rebalance, nowe zaklęcia, przebudowany system przywoływania stworzeń, nowe mody animacyjne i wiele poprawek błędów. Poniżej trochę szczegółów jeśli chodzi o zmiany:]]></description>
+            <content:encoded><![CDATA[<p>Pojawiła się nowa polska wersja modpacka <strong>UNION+</strong> do Gothic 3, stworzonego przez zespół <strong>Sefaris</strong> — aktualizacja <strong>1.7.2</strong>. Paczka przynosi ogromną ilość zmian, w tym gruntowny rebalans broni i magii w ramach modułu <strong>Total Rebalance</strong>, nowe zaklęcia, przebudowany system przywoływania stworzeń, nowe mody animacyjne i wiele poprawek błędów. Poniżej trochę szczegółów jeśli chodzi o zmiany:</p>
+<div class="blog-note" style="font-size:1.15rem;padding:1.2rem 1.5rem"><p><strong>📥 Źródło:</strong> Aktualizację można pobrać ze <a href="https://sefaris.eu/g3-mod-pack/changelog/439">strony projektu na Sefaris.eu</a>, gdzie dostępny jest również bardziej rozbudowany changelog z pełną listą zmian.</p></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="basemod">BaseMod<a href="https://www.mrocznetajemnice.pl/newsy/union-plus-1-7-2#basemod" class="hash-link" aria-label="Bezpośredni link do BaseMod" title="Bezpośredni link do BaseMod" translate="no">​</a></h2>
+<ol>
+<li class="">Zmieniono model zachowania i modele unikalnych szkieletów z moda LTM. Teraz zachowują się jak oryginalne szkielety, są odporne na strzały i po śmierci rozsypują się na części.</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="main">Main<a href="https://www.mrocznetajemnice.pl/newsy/union-plus-1-7-2#main" class="hash-link" aria-label="Bezpośredni link do Main" title="Bezpośredni link do Main" translate="no">​</a></h2>
+<ol>
+<li class="">Przez Helpera można teraz ukończyć dowolny quest związany z wyzwoleniem miasta.</li>
+<li class="">Naprawiono błąd z brakiem skór pustynnych topelców i żuwaczek pustynnych pełzaczy przy zainstalowanym questpacku bez modów balansowych.</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="magiczne-bronie-cnqmagicweapons">Magiczne bronie (CNQMagicWeapons)<a href="https://www.mrocznetajemnice.pl/newsy/union-plus-1-7-2#magiczne-bronie-cnqmagicweapons" class="hash-link" aria-label="Bezpośredni link do Magiczne bronie (CNQMagicWeapons)" title="Bezpośredni link do Magiczne bronie (CNQMagicWeapons)" translate="no">​</a></h2>
+<ol>
+<li class="">Usunięto umiejętność jednoręcznego chwytu.</li>
+<li class="">Dodano możliwość zaklinania nowej broni z BaseMod.</li>
+<li class="">Rapierów nie można już zaklinać.</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="smoki-cnqdragons">Smoki (CNQDragons)<a href="https://www.mrocznetajemnice.pl/newsy/union-plus-1-7-2#smoki-cnqdragons" class="hash-link" aria-label="Bezpośredni link do Smoki (CNQDragons)" title="Bezpośredni link do Smoki (CNQDragons)" translate="no">​</a></h2>
+<ol>
+<li class="">Rozszerzono listę mieczy, które można wykorzystać do tworzenia broni za pomocą ognistych kielichów.</li>
+<li class="">Uproszczono wymagania Pedara dotyczące wytworzenia jego miecza.</li>
+<li class="">Małym smokom przypisano żywioły.</li>
+<li class="">Ingolf zamiast skóry dorosłego smoka wymaga teraz wykonania jego zadania, aby rozpocząć handel z graczem.</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="mod-złodziejski-cnqthiefquests">Mod złodziejski (CNQThiefQuests)<a href="https://www.mrocznetajemnice.pl/newsy/union-plus-1-7-2#mod-z%C5%82odziejski-cnqthiefquests" class="hash-link" aria-label="Bezpośredni link do Mod złodziejski (CNQThiefQuests)" title="Bezpośredni link do Mod złodziejski (CNQThiefQuests)" translate="no">​</a></h2>
+<ol>
+<li class="">Od Samuela można ukraść klucz, którym można otworzyć jego skrzynię.</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="podbój-conquest">Podbój (Conquest)<a href="https://www.mrocznetajemnice.pl/newsy/union-plus-1-7-2#podb%C3%B3j-conquest" class="hash-link" aria-label="Bezpośredni link do Podbój (Conquest)" title="Bezpośredni link do Podbój (Conquest)" translate="no">​</a></h2>
+<ol>
+<li class="">Za wspólne eliminacje kluczowych przeciwników z towarzyszami gracz otrzymuje teraz indywidualne nagrody w postaci unikalnej broni.</li>
+<li class="">Za ukończenie wybranych questów fabularnych gracz również zostaje nagrodzony wyjątkowym ekwipunkiem.</li>
+<li class="">Poprawki i usprawnienia w niektórych zadaniach.</li>
+<li class="">Przez Helpera można ukończyć dowolny quest związany z podbijaniem miast w Varancie po stronie najeźdźców i zespawnować ich obóz.</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="oswajanie-zwierząt-tameanimal">Oswajanie zwierząt (TameAnimal)<a href="https://www.mrocznetajemnice.pl/newsy/union-plus-1-7-2#oswajanie-zwierz%C4%85t-tameanimal" class="hash-link" aria-label="Bezpośredni link do Oswajanie zwierząt (TameAnimal)" title="Bezpośredni link do Oswajanie zwierząt (TameAnimal)" translate="no">​</a></h2>
+<ol>
+<li class="">Dodano mikro quest na zabicie białego szablozęba.</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="areny-cnqarenas">Areny (CNQArenas)<a href="https://www.mrocznetajemnice.pl/newsy/union-plus-1-7-2#areny-cnqarenas" class="hash-link" aria-label="Bezpośredni link do Areny (CNQArenas)" title="Bezpośredni link do Areny (CNQArenas)" translate="no">​</a></h2>
+<ol>
+<li class="">Usunięto prawie wszystkie nowości związane z arenami w Geldern, Silden, Monterze, małej arenie w Faring i Ishtar.</li>
+<li class="">Po pokonaniu wszystkich wojowników na małej arenie Faring, Curtis zaproponuje graczowi walkę z nim.</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="kroniki-rycerza-knight-chronicle">Kroniki Rycerza (Knight Chronicle)<a href="https://www.mrocznetajemnice.pl/newsy/union-plus-1-7-2#kroniki-rycerza-knight-chronicle" class="hash-link" aria-label="Bezpośredni link do Kroniki Rycerza (Knight Chronicle)" title="Bezpośredni link do Kroniki Rycerza (Knight Chronicle)" translate="no">​</a></h2>
+<ol>
+<li class="">Smocze Zebacze przy portalu Adanosa nie pojawiają się już pod teksturami po zainstalowaniu moda Alternative World.</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="total-rebalance">Total Rebalance<a href="https://www.mrocznetajemnice.pl/newsy/union-plus-1-7-2#total-rebalance" class="hash-link" aria-label="Bezpośredni link do Total Rebalance" title="Bezpośredni link do Total Rebalance" translate="no">​</a></h2>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>informacja</div><div class="admonitionContent_BuS1"><p>Mod działa teraz wyłącznie w połączeniu z <strong>New Balance and Combat System</strong>.</p></div></div>
+<p>Moduł Total Rebalance przeszedł gruntowną przebudowę obejmującą ponad 50 zmian. Oto najważniejsze obszary, których dotyczą:</p>
+<ul>
+<li class=""><strong>Broń</strong> — ustandaryzowano zasięgi dla każdego typu broni, dodano nowe wymagania atrybutów (zręczność, starożytna wiedza, umiejętności złodziejskie) oraz nowy system skalowania obrażeń. Dodano kilkadziesiąt nowych sztuk broni (sztylety, halabardy, katany, rapiery, szable, kosy, kopie).</li>
+<li class=""><strong>Kowalstwo i crafting</strong> — przebalansowano przepisy kowalskie, dodano masowe przetapianie i masową pracę przy warsztacie myśliwskim. Gracz widzi teraz statystyki broni w kupowanych przepisach.</li>
+<li class=""><strong>Magia</strong> — przebudowano system zaklęć: usunięto samonaprowadzanie pocisków, dodano ręczne celowanie z bonusem za trafienia w głowę. Zmieniono działanie zaklęć obszarowych, dodano nowe zaklęcia, usunięto mechanikę ulepszania zaklęć.</li>
+<li class=""><strong>Przywoływanie stworzeń</strong> — zlikwidowano kamienie dusz. Przywołane stworzenia zużywają teraz maksymalną manę gracza. Przebudowano drzewka rozwoju przywołanych stworzeń.</li>
+<li class=""><strong>Potwory i NPC</strong> — wprowadzono system podatności/odporności dla wszystkich potworów, wyłączono obronę u mobów i NPC, dodano pasywną regenerację przeciwników. Przebalansowano zachowania magicznych NPC.</li>
+<li class=""><strong>Umiejętności i perki</strong> — przebalansowano liczne umiejętności (m.in. bonusy obrażeń klasowych, regenerację, kowalstwo, kradzieże).</li>
+<li class=""><strong>Ekonomia i rozwój postaci</strong> — rebalans jedzenia, mikstur, cen zwojów. Zmieniono koszty rozwoju zdrowia, wytrzymałości i many.</li>
+<li class=""><strong>Walka</strong> — zmieniono działanie ataków siłowych i wirowych, przebalansowano trolle i inne wytrzymałe potwory.</li>
+<li class=""><strong>Wersja uproszczona</strong> — dodano lżejszą wersję paczki bez wybranych zaawansowanych mechanik (m.in. bez regeneracji przeciwników i ręcznego celowania magią).</li>
+</ul>
+<p>Pełna, szczegółowa lista wszystkich zmian dostępna jest w języku rosyjskim na <a href="https://worldofplayers.ru/threads/43003/" target="_blank" rel="noopener noreferrer" class="">stronie źródłowej projektu</a>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="nowe-mody">Nowe mody<a href="https://www.mrocznetajemnice.pl/newsy/union-plus-1-7-2#nowe-mody" class="hash-link" aria-label="Bezpośredni link do Nowe mody" title="Bezpośredni link do Nowe mody" translate="no">​</a></h2>
+<ol>
+<li class=""><strong>Sneaky Loot</strong> – płynne, bezgłośne animacje do skradania się i delikatne gesty zbierania łupów.</li>
+<li class=""><strong>Animations Pack 'Monsters Unleashed'</strong> – poprawia i wzbogaca ruchy najbardziej rozpoznawalnych potworów gry nowymi animacjami.</li>
+<li class=""><strong>Animation Pack 'Rapier Style'</strong> – modyfikacja animacyjna, całkowicie przerabiająca styl walki rapierami.
+Autor – Wilczy Nóż</li>
+<li class=""><strong>Script_Statuses</strong> – mod dodaje mechanikę krwawienia i wyświetla statusy nakładane na postacie (krwawienie, trucizna, podpalenie itp.) obok wskaźnika zdrowia. Daje moderom możliwość tworzenia mikstur z tymczasowym zwiększeniem statystyk, a także ekwipunku zwiększającego pasywną regenerację zdrowia i many.
+Autor – Zipperiusz</li>
+<li class=""><strong>AnimationsRedone_UnarmedMovement</strong> – zestaw nowych animacji dla ruchów bez broni.</li>
+<li class=""><strong>AnimationsRedone_BowsAndCrossbows</strong> – zestaw nowych animacji dla ruchów z łukiem i kuszą.</li>
+<li class=""><strong>Animations Redone - Sword And Shield</strong> – zestaw nowych animacji dla ruchów z tarczą i mieczem.
+Autor – Timor1234</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="aktualizacje-innych-modów">Aktualizacje innych modów<a href="https://www.mrocznetajemnice.pl/newsy/union-plus-1-7-2#aktualizacje-innych-mod%C3%B3w" class="hash-link" aria-label="Bezpośredni link do Aktualizacje innych modów" title="Bezpośredni link do Aktualizacje innych modów" translate="no">​</a></h2>
+<ol>
+<li class="">World_texture_mix</li>
+<li class="">Drakzi FasterCombat</li>
+<li class="">G3 ARMOR AND WEAPON REBUILT 2.3</li>
+<li class="">DRAGON REWARDS</li>
+<li class="">RB_Mod</li>
+<li class="">Reimagined ModPack</li>
+<li class="">IntuitiveCombatSystem</li>
+<li class="">AnimationsRedone – wszystkie mody animacyjne</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="dodatkowa-aktualizacja-skryptów-autor-fyryny">Dodatkowa aktualizacja skryptów (autor: fyryNy)<a href="https://www.mrocznetajemnice.pl/newsy/union-plus-1-7-2#dodatkowa-aktualizacja-skrypt%C3%B3w-autor-fyryny" class="hash-link" aria-label="Bezpośredni link do Dodatkowa aktualizacja skryptów (autor: fyryNy)" title="Bezpośredni link do Dodatkowa aktualizacja skryptów (autor: fyryNy)" translate="no">​</a></h2>
+<p>Wszystkie skrypty zostały zaktualizowane do najnowszej wersji SDK. Część z nich otrzymała menu konfiguracyjne dostępne w grze (do jego działania wymagany jest <strong>Script_ScriptsMenu</strong>, również dostępny w paczce). Poniżej szczegółowa lista zmian:</p>
+<ol>
+<li class=""><strong>G3Fixes</strong> — drobne poprawki oraz nowa funkcja mergowania efektów z plików dodatkowych (feature skierowany do modderów).</li>
+<li class=""><strong>FloatingDamage</strong> — aktualizacja do wersji kompatybilnej ze skryptem <strong>Script_Statuses</strong> od Zipperiusza.</li>
+<li class=""><strong>ItemMapa</strong> — nowe funkcje od Qantaxa oraz dodane menu in-game.</li>
+<li class=""><strong>TeleportPartyMembers</strong> — menu in-game oraz nowa opcja umożliwiająca teleportowanie NPC będących pod wpływem czaru dominacji.</li>
+<li class=""><strong>StatBarValues</strong> — drobne poprawki.</li>
+<li class=""><strong>QuickSaveBackuper</strong> — sejwy backupowe posiadają teraz własną nazwę w menu zapisu/wczytywania.</li>
+<li class=""><strong>LearningThresholdTweaks</strong> — poprawka dotycząca wytrzymałości (staminy).</li>
+<li class=""><strong>TimeMultiplier</strong> — dodane menu in-game.</li>
+<li class=""><strong>QuickLoot</strong> — dodane menu in-game oraz naprawiono błąd powodujący duplikowanie przedmiotów.</li>
+<li class=""><strong>ECDELocator</strong> — dodane menu in-game oraz drobna poprawka.</li>
+</ol>]]></content:encoded>
+            <category>Modyfikacje</category>
+            <category>Gothic3</category>
+            <category>Spolszczenie</category>
+            <category>Sefaris</category>
+        </item>
+        <item>
             <title><![CDATA[Wywiad z Natsu — inicjatorem i współtwórcą projektu: Risen: The Old Kingdom]]></title>
             <link>https://www.mrocznetajemnice.pl/newsy/wywiad-risen-the-old-kingdom</link>
             <guid>https://www.mrocznetajemnice.pl/newsy/wywiad-risen-the-old-kingdom</guid>
