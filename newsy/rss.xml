@@ -4,10 +4,63 @@
         <title>Mroczne Tajemnice Blog</title>
         <link>https://www.mrocznetajemnice.pl/newsy</link>
         <description>Mroczne Tajemnice Blog</description>
-        <lastBuildDate>Sun, 12 Apr 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[Returning Legacy – otwarta beta, czas start!]]></title>
+            <link>https://www.mrocznetajemnice.pl/newsy/returning-legacy-otwarta-beta</link>
+            <guid>https://www.mrocznetajemnice.pl/newsy/returning-legacy-otwarta-beta</guid>
+            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Zapowiedziany jakiś czas temu projekt Returning Legacy wszedł właśnie w fazę open bety. Oznacza to, że każdy chętny może już pobrać i przetestować moda — a wszelkie uwagi i zgłoszenia błędów pomogą twórcom dopracować go przed pełną premierą. Zespół odpowiedzialny za moda stwierdził, że będzie to najlepsza opcja, aby jak najlepiej dopracować modyfikację i zebrać potrzebny feedback.]]></description>
+            <content:encoded><![CDATA[<img src="https://www.mrocznetajemnice.pl/img/images/LegacyNews/retlekgacty.png" alt="Returning Legacy – otwarta beta" style="width:100%;border-radius:10px;margin-bottom:1.5rem">
+<p>Zapowiedziany jakiś czas temu projekt <strong><a href="https://sefaris.eu/returning-legacy" target="_blank" rel="noopener noreferrer" class="">Returning Legacy</a></strong> wszedł właśnie w fazę open bety. Oznacza to, że każdy chętny może już pobrać i przetestować moda — a wszelkie uwagi i zgłoszenia błędów pomogą twórcom dopracować go przed pełną premierą. Zespół odpowiedzialny za moda stwierdził, że będzie to najlepsza opcja, aby jak najlepiej dopracować modyfikację i zebrać potrzebny feedback.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="czym-jest-mod">Czym jest mod?<a href="https://www.mrocznetajemnice.pl/newsy/returning-legacy-otwarta-beta#czym-jest-mod" class="hash-link" aria-label="Bezpośredni link do Czym jest mod?" title="Bezpośredni link do Czym jest mod?" translate="no">​</a></h2>
+<p>Najpierw zapoznajmy się z opisem moda ze strony Sefaris:</p>
+<div class="interview-qa"><div class="interview-answer"><div class="interview-person">Sefaris</div><p>„Returning to modyfikacja, która budzi skrajne emocje w community Gothica – jedni ją kochają, inni nienawidzą. Niezależnie od opinii, nie można jej odmówić wpływu na rozwój moddingu. Na jej podstawie powstały kolejne gigantyczne modyfikacje, jak Returning 2.0 oraz dodatki Alternative Balance, który przerodził się w NewBalance. Mamy szczególny sentyment do tej starej wersji. Naszym celem jest odświeżenie oryginalnej rosyjskiej modyfikacji, przetłumaczenie jej na nowo i dostosowanie do współczesnych „standardów". Skupiamy się na zachowaniu ducha oryginału, unikając dodawania nowych gildii czy wątków, a koncentrując się na odświeżeniu klasycznej wersji. Wiele mechanik opartych jest teraz na Unionie, wprowadzając liczne usprawnienia i dodatki."</p></div></div>
+<p>Przykładowymi dodatkami i usprawnieniami są między innymi:</p>
+<ul>
+<li class="">nowe menu craftingu,</li>
+<li class="">ulepszone zarządzanie przyzwańcami,</li>
+<li class="">obrażenia obszarowe,</li>
+<li class="">nowe umiejętności,</li>
+<li class="">czytelniejsze menu,</li>
+<li class="">nowe mechaniki w walkach z bossami,</li>
+<li class="">dwa poziomy trudności — normalny i rzeźnik,</li>
+<li class="">nowy system wyświetlania informacji na ekranie,</li>
+<li class="">poprawione paski HP/many,</li>
+<li class="">przebudowany pasek wytrzymałości na wzór HP/many,</li>
+<li class="">nowy system kradzieży,</li>
+<li class="">przebudowany system modlitw do bogów,</li>
+<li class="">usprawnione wyświetlanie ilości karmy bogów na ekranie,</li>
+<li class="">nowy system sprintu,</li>
+<li class="">całkowicie nowy system DoT (Damage over Time) na wzór z NewBalance,</li>
+<li class="">przebudowane i przepisane na nowo wszystkie zaklęcia,</li>
+</ul>
+<p>i wiele innych.</p>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>Pełna lista zmian</div><div class="admonitionContent_BuS1"><p>Szczegółowa lista zmian będzie dostępna po premierze moda.</p></div></div>
+<img src="https://www.mrocznetajemnice.pl/img/images/LegacyNews/d8C3GiN.webp" alt="Nowe menu craftingu" style="width:100%;border-radius:10px;margin-bottom:1.5rem">
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Stan rozwoju</div><div class="admonitionContent_BuS1"><p>Mod jest nadal rozwijany — zgodnie z informacjami od zespołu tworzącego moda, aktualnie najbardziej dopracowane są gildie oparte o walkę bronią białą i dystansową. Jeżeli będziecie decydować się na rozgrywkę magami, liczcie się z tym, że mogą one być mniej dopracowane. Jednakże, jeśli nimi zagracie, postarajcie się dać jak największy feedback autorom na ich <a href="https://discord.gg/VrxJEYDZ9W" target="_blank" rel="noopener noreferrer" class="">Discordzie</a>.</p></div></div>
+<p>Mod dostępny jest do pobrania z <strong>Sefaris</strong>: <a href="https://sefaris.eu/returning-legacy" target="_blank" rel="noopener noreferrer" class="">sefaris.eu/returning-legacy</a></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="wymagania-i-pluginy">Wymagania i pluginy<a href="https://www.mrocznetajemnice.pl/newsy/returning-legacy-otwarta-beta#wymagania-i-pluginy" class="hash-link" aria-label="Bezpośredni link do Wymagania i pluginy" title="Bezpośredni link do Wymagania i pluginy" translate="no">​</a></h2>
+<p>Z najważniejszych informacji:</p>
+<ul>
+<li class="">Do gry wymagany jest <strong>Union</strong>.</li>
+<li class="">Gdy gra wykryje nieobsługiwany lub niewspierany plugin, wyświetli powiadomienie i zaleci jego usunięcie — uruchomi się jednak normalnie.</li>
+</ul>
+<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Pluginy niewspierane przez modyfikację</div><div class="admonitionContent_BuS1"><details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>Kliknij, aby rozwinąć listę</summary><div><div class="collapsibleContent_i85q"><p>Poniższe pluginy są integralną częścią moda i <strong>nie powinny</strong> być zainstalowane osobno:</p><ul>
+<li class="">zTrueChance,</li>
+<li class="">HackChest (jakikolwiek),</li>
+<li class="">zScaleFightRange,</li>
+<li class="">SplashDamage (jakikolwiek),</li>
+<li class="">FreeAim (jakikolwiek).</li>
+</ul></div></div></details></div></div>
+<p><strong>PS:</strong> W najbliższych dniach możecie się spodziewać wywiadu z twórcami moda!</p>]]></content:encoded>
+            <category>Modyfikacje</category>
+            <category>Gothic2</category>
+            <category>Sefaris</category>
+        </item>
         <item>
             <title><![CDATA[Nowa polska wersja ModPacka do Gothic 3 (UNION+ 1.7.2)]]></title>
             <link>https://www.mrocznetajemnice.pl/newsy/union-plus-1-7-2</link>
