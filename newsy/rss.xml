@@ -4,10 +4,53 @@
         <title>Mroczne Tajemnice Blog</title>
         <link>https://www.mrocznetajemnice.pl/newsy</link>
         <description>Mroczne Tajemnice Blog</description>
-        <lastBuildDate>Wed, 29 Apr 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pl</language>
+        <item>
+            <title><![CDATA[Gothic I: Amplified – premiera aktualizacji 1.2]]></title>
+            <link>https://www.mrocznetajemnice.pl/newsy/gothic-i-amplified-update-1-2</link>
+            <guid>https://www.mrocznetajemnice.pl/newsy/gothic-i-amplified-update-1-2</guid>
+            <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Właśnie ukazała się aktualizacja 1.2 moda Gothic I: Amplified autorstwa zwierziqueii (DerDrache). Nowa wersja dostępna jest do pobrania na ModDB — i przynosi całkiem sporo zmian.]]></description>
+            <content:encoded><![CDATA[<img src="https://www.mrocznetajemnice.pl/img/images/Amplified/Gothic_Amplified_logo.png" alt="Gothic I: Amplified" style="width:60%;display:block;margin:0 auto 1.5rem">
+<p>Właśnie ukazała się aktualizacja 1.2 moda <strong>Gothic I: Amplified</strong> autorstwa <strong>zwierziqueii (DerDrache)</strong>. Nowa wersja dostępna jest do pobrania na ModDB — i przynosi całkiem sporo zmian.</p>
+<div style="text-align:center;margin-bottom:1.5rem"><a href="https://www.moddb.com/mods/gothic-i-amplified/downloads" target="_blank" style="display:inline-block;padding:0.65rem 2rem;background:#7a4a1e;color:#fff;border-radius:6px;font-weight:bold;text-decoration:none;font-size:1rem;letter-spacing:0.03em">⬇ Pobierz Gothic I: Amplified 1.2</a></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="czym-jest-mod">Czym jest mod?<a href="https://www.mrocznetajemnice.pl/newsy/gothic-i-amplified-update-1-2#czym-jest-mod" class="hash-link" aria-label="Bezpośredni link do Czym jest mod?" title="Bezpośredni link do Czym jest mod?" translate="no">​</a></h2>
+<p><strong>Gothic I: Amplified</strong> to dodatek do Gothica I rozszerzający mechaniki, świat i balans rozgrywki, przy jednoczesnym zachowaniu oryginalnej fabuły — bez dodatkowych ścieżek questowych.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="co-nowego-w-aktualizacji-12">Co nowego w aktualizacji 1.2?<a href="https://www.mrocznetajemnice.pl/newsy/gothic-i-amplified-update-1-2#co-nowego-w-aktualizacji-12" class="hash-link" aria-label="Bezpośredni link do Co nowego w aktualizacji 1.2?" title="Bezpośredni link do Co nowego w aktualizacji 1.2?" translate="no">​</a></h2>
+<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Uwaga</div><div class="admonitionContent_BuS1"><p>Rozpoczęcie nowej gry jest wymagane.</p></div></div>
+<p>Pełna lista zmian:</p>
+<ul>
+<li class="">Nowe i odświeżone lokacje w świecie gry.</li>
+<li class="">Naprawiony sprint.</li>
+<li class="">Nowy ekwipunek w klasycznym stylu.</li>
+<li class="">GRawInput nie jest już wymagany.</li>
+<li class="">Kompatybilność z LegacyAltRenderer.</li>
+<li class="">Efekty pogodowe.</li>
+<li class="">Nowa broń.</li>
+<li class="">Setki drobnych poprawek.</li>
+<li class="">Przebudowany system magii:<!-- -->
+<ul>
+<li class="">Naprawione zużycie many — mana nie „wycieka".</li>
+<li class="">Tworzenie run.</li>
+<li class="">Brak utraty many przy spamowaniu klawiszem akcji.</li>
+<li class="">Brak utraty many, gdy mana jest niewystarczająca.</li>
+</ul>
+</li>
+</ul>
+<p>I wiele więcej!</p>
+<p>Podziękowania od autora dla testerów, którzy pomogli w organizacji testów tej aktualizacji: Boris, Deetom, Delph, paweu, Bezimienny111, Sebastian.</p>
+<div style="border:1px solid #7a4a1e;border-left:4px solid #7a4a1e;border-radius:6px;padding:1rem 1.25rem;margin-bottom:1.5rem;background:rgba(122,74,30,0.08)"><p></p><div style="font-weight:bold;margin-bottom:0.4rem;color:#7a4a1e;text-transform:uppercase;font-size:0.8rem;letter-spacing:0.07em">🎙 Wywiad z autorem</div>
+Chcesz dowiedzieć się więcej o genezie projektu i planach na przyszłość? Przeczytaj nasz <a href="https://www.mrocznetajemnice.pl/blog/wywiad-z-zwierziqueii-derdrache"><strong>wywiad z ZwierziqueII (DerDrache)</strong></a> — autorem Gothic I: Amplified.<p></p></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="screenshoty">Screenshoty<a href="https://www.mrocznetajemnice.pl/newsy/gothic-i-amplified-update-1-2#screenshoty" class="hash-link" aria-label="Bezpośredni link do Screenshoty" title="Bezpośredni link do Screenshoty" translate="no">​</a></h2>
+<div class="screenshot-gallery"><a href="https://media.moddb.com/images/members/5/4579/4578723/profile/11.png" target="_blank"><img src="https://media.moddb.com/images/members/5/4579/4578723/profile/11.png" alt="Gothic I: Amplified – screenshot 1"></a><a href="https://media.moddb.com/images/members/5/4579/4578723/profile/13.png" target="_blank"><img src="https://media.moddb.com/images/members/5/4579/4578723/profile/13.png" alt="Gothic I: Amplified – screenshot 2"></a></div>
+<div style="text-align:center;margin-top:1.5rem"><a href="https://www.moddb.com/mods/gothic-i-amplified/downloads" target="_blank" style="display:inline-block;padding:0.65rem 2rem;background:#7a4a1e;color:#fff;border-radius:6px;font-weight:bold;text-decoration:none;font-size:1rem;letter-spacing:0.03em">⬇ Pobierz Gothic I: Amplified 1.2</a></div>]]></content:encoded>
+            <category>Modyfikacje</category>
+            <category>Gothic1</category>
+            <category>Addon</category>
+        </item>
         <item>
             <title><![CDATA[Luźny wywiad z Robertboanerges — współautorem spolszczenia Returninga 1.1]]></title>
             <link>https://www.mrocznetajemnice.pl/newsy/wywiad-z-robertboanerges-returning-11</link>
